@@ -1,0 +1,220 @@
+<HTML>
+<HEAD>
+<TITLE>Info about genome-tools</TITLE>
+</HEAD>
+<BODY>
+<p>
+<H2>Quick update on genome-tools</H2>
+<H3>May 4, 2008</H3>
+Genome-tools 1.22 released.
+<p>
+Mostly minor bug fixes.  Please update.
+As always, files are at:
+http://sourceforge.net/project/showfiles.php?group_id=45954
+
+Main fix is to change to new "head" command syntax.  This has been ongoing
+for a while, thanks to Sri Kosuri for pointing it out again.
+
+Changed files:
+nearestorf.pl
+chromosome-spacing.pl
+mergeptt.pl
+<p>
+<hr>
+<H3>November 29, 2007</H3>
+The server has been rebuilt, and all redirects from sourceforge.net are now back to http://genome-tools.stanford.edu.  The backup http://hultgren.wustl.edu/genome-tools will still be available for a while, and should have the same functionality and genome data.
+<p>
+New org-map.standard and org-map.directories files are available.  Run 'update-genome.pl -all' to update to the new files and download the new genomes.  There are now 566 microbial genomes total, with 1000 chromosomes/plasmids.
+<p>
+This will likely be the last time I update these files in their current form.  The number and rate of new genome sequences is too much to keep up with.  Some fields that don't really have that much utility may be deprecated, and orgcode syntax may be expanded to allow for longer orgcodes.  This will of course require an upgrade to the genome-tools scripts and modules.  Stay tuned.
+<p>
+<hr>
+<H3>August 22, 2006</H3>
+There was a hardware failure with the original server.  Site temporarily switched to http://hultgren.wustl.edu/genome-tools.
+<hr>
+<H3>Februrary 18, 2006</H3>
+New org-map.standard and org-map.directories files are available.  Run 'update-genome.pl -all' to update to the new files and download the new genomes.  There are now 304 microbial genomes total, with 523 chromosomes/plasmids.
+<p>
+<hr>
+<H3>August 16, 2005</H3>
+Some networking reconfiguration occurred where the server is located.  This resulted in the site being inaccessible for several weeks.  Sorry for any inconvenience.  This should be cleared up now.
+<p>
+Also, new org-map.standard and org-map.directories files are available in the usual location.  These are current as of August 1, 2005.  There are now 241 microbial genomes total, with 401 chromosomes/plasmids.
+<p>
+Please issue an 'update-genome.pl -all' command to update to these new files.
+<p>
+<hr>
+<H3>March 15, 2005</H3>
+New org-map.standard and org-map.directories files available.  This covers all data available in the curated microbial genome section of GenBank's ftp site as of March 15, 2005.  There are now 226 microbial genomes total, with 378 chromosomes/plasmids.
+<p>
+Please issue an 'update-genome.pl -all' command to update.
+<p>
+Link to latest release: <a href="http://sourceforge.net/project/showfiles.php?group_id=45954&package_id=38694">http://sourceforge.net/project/showfiles.php?group_id=45954&package_id=38694</a>.
+<p>
+<hr>
+<H3>December 28, 2004</H3>
+Genome-tools 1.21 released.<br>
+NCBI file formats seem to have changed slightly again as of December 19, 2004.  This release should fix parsing errors of these new .ptt files and is compatible with the old format as well.
+<p>
+Modified files:
+intergenic.pl
+orfregion.pl
+nearestorf.pl
+chromosome-spacing.pl
+ffn-to-ptt.pl
+rnatab-to-ptt.pl
+<p>
+Also, new org-map.standard and org-map.directories files are available.<br>
+Now 208 microbial genomes total, with 346 chromosomes/plasmids.
+<p>
+<hr>
+<H3>December 27, 2004</H3>
+Genome-tools 1.2 released.<br>
+It is highly recommended that all installations upgrade to this new release.  There is a new upgrade script to simplify the upgrade procedure, which should work if there is a previously installed genome-tools.conf file.  This release fixessome parsing errors and processing errors which resulted in possibly missing some intergenic sequence (although in some cases we can't do anything about NCBI .ptt files specifying illogical situations) and possibly not preprocessing some genome data files.
+<p>
+Please let me know if you find any errors or have any problems.  Look for an updated org-map.standard file in the next week or two (i.e.  run update-genome.pl -all).
+<p>
+Major fixes/changes:<br>
+- Added upgrade-genome-tools.pl script.<br>
+- Some Genbank file formats have changed slightly since the initialed genome-tools release. Parsing errors should now be gone.<br>
+- Downloading and preprocessing genomes when they were already installed or when multiple sets of files were in the same directory sometimes did not update the .ptt file. This has been fixed.<br>
+<p>
+New files:<br>
+upgrade-genome-tools.pl<br>
+<p>
+Changed files:<br>
+mergeptt.pl<br>
+preproc-all-genomes.pl<br>
+intergenic.pl<br>
+orfregion.pl<br>
+chompnewline.pl<br>
+<p>
+Swaine Chen<br>
+slchen (at) users (dot) sourceforge (dot) net
+<p>
+<hr>
+<H3>September 7, 2004</H3>
+New org-map.standard and org-map.directories files updated.  This covers all data available in the curated microbial genome section of GenBank's ftp site as of today.  There are now 181 microbial genomes total, including 274 chromosomes/plasmids.  All these data files should be availabe for use on the web site later today after downloading finishes.
+<p>
+<hr>
+<H3>April 10, 2004</H3>
+New web server is up at http://genome-tools.stanford.edu.  Please update any bookmarks.  All genome files are now stored uncompressed, as space limitations are much relaxed, so things should run a bit quicker in general.
+<p>
+Also, two new graphical tools are available and highlighted in gray.  The first allows drawing of circular maps, marking off certain positions (for example, copy the output from the "Position" function and paste it into the input for the "Circular-Chromosome location" function).
+The second allows drawing a linear map of a specified region of the chromosome, providing a to-scale view of the genes in that regions of the chromosome.
+<p>
+<hr>
+<H3>December 7, 2003</H3>
+Genome-tools version 1.1 is released now.  Download at <a href=http://prdownloads.sourceforge.net/genome-tools/genome-tools-1.1.tar.gz?download>http://prdownloads.sourceforge.net/genome-tools/genome-tools-1.1.tar.gz?download</a>.
+<p>
+Major changes concern installation and maintenance.
+<p>
+Briefly, there is an installation script and a new configuration file scheme which allows there to be a system-wide as well as user-specific configuration file.  The setup script helps write the system-wide configuration file and installs all the files.
+<p>
+There is a new script, update-genome.pl, which vastly simplifies the management of genome data files in terms of installing them for use locally.  There is a standard org-map file on the web site which this script looks at, and it will download the data files and set up the org-map file automatically if run in batch mode.
+<p>
+Also, genome files for Sulfolobus species have been uncompressed on the web site.  Searches on these genome files from the web interface should be faster now.
+<p>
+<hr>
+<H3>July 29, 2003</H3>
+Due to space constraints on the sourceforge.net server, many of the genome files are compressed on this web server.  This causes some slowdown as they need to be uncompressed every time a request is made.  For genomes that are more frequently accessed, we have stored the data files in uncompressed form, which should improve the performance of searching through the genome sequence.  Currently, this applies to the Caulobacter crescentus, Escherichia coli K12, Mycobacterium tuberculosis CDC1551, and Salmonella typhimurium LT2 genomes.
+<p>
+Also, we've been working on installation and automation scripts so that installing and maintaining genome-tools locally is much easier.  If you have a local installation of genome tools, check back here in the near future for further updates.
+<p>
+And if you are interested in installing genome-tools locally to take advantage of automated batch processing across many genomes, but have been stumped by the difficult installation, please also check back here soon for the new release we're preparing!
+<p>
+<hr>
+<H3>June 2, 2003</H3>
+Getting genome-tools set up locally is admittedly still pretty hairy.  We are working on this.
+<p>
+The first thing we've done is move towards using the curated genome files from GenBank.  As these files are generally more consistent, we will move away from using sanemaker files to "clean up" annotation files.
+<p>
+There is now a program in the CVS tree called update-genome.pl which will help in downloading the correct files from GenBank (including the rnatab files!), setting up the org-map line, and preprocessing the genome files.  All you need to know is the location of your org-map file and the name of the directory on the GenBank FTP server where the files are stored.  The list of directories as of June 2, 2003 can be found <a href="genbank-directories.txt">here</a>.
+<p>
+The script is still not perfect yet - it ought to be able to autodetect where your org-map file is, it should be able to handle a pre-existing org-map line if you're downloading the same genome, etc. etc.  Right now it works ok for building the initial org-map file, though.  When we get it more polished we will be making another release of the entire package.
+<p>
+Note that if you're going to download the update-genome.pl script, it can be found in the <a href="http://cvs.sourceforge.net/cgi-bin/viewcvs.cgi/genome-tools/genome-tools/sbin/">sbin</a> directory under the <a href="http://cvs.sourceforge.net/cgi-bin/viewcvs.cgi/genome-tools/">CVS tree</a>.  You will also need new versions of mergeptt.pl, preproc-new-genome.pl, and rnatab-to-ptt.pl (all in the <a href="http://cvs.sourceforge.net/cgi-bin/viewcvs.cgi/genome-tools/genome-tools/sbin/">sbin</a> directory) as well as a new version of Orgmap.pm (in the <a href="http://cvs.sourceforge.net/cgi-bin/viewcvs.cgi/genome-tools/genome-tools/lib/">lib</a> directory).
+<p>
+Hope this helps.  Let us know if there are questions/comments/suggestions.  Thanks.
+<p>
+<hr>
+<H3>March 26, 2003</H3>
+To help with downloading and installing genomes for use with genome-tools,
+we have made all the files we use for preprocessing available.  There are
+two files, <a href="http://prdownloads.sourceforge.net/genome-tools/sanemakers-031703.tar.gz?download">sanemakers-031703.tar.gz</a> and <a href="http://prdownloads.sourceforge.net/genome-tools/rnatabs-031703.tar.gz?download">rnatab-031703.tar.gz</a> which
+contain the sanemakers and rnatab files we use on our machine.  A list
+of genomes we have successfully used with genome-tools can be found here.
+<p>
+Most of the data files for these genomes were taken from the
+original GenBank submissions, and they can be downloaded at
+<a href="ftp://ftp.ncbi.nih.gov/genbank/genomes/Bacteria">ftp://ftp.ncbi.nih.gov/genbank/genomes/Bacteria</a>.  Note, the data files
+at <a href="ftp://ftp.ncbi.nih.gov/genomes/Bacteria">ftp://ftp.ncbi.nih.gov/genomes/Bacteria</a> are not the same, they are the
+curated versions.  These are less stable than the orgiinal submissions, so
+we do not have files for those.  Many of them may not need a sanemaker.pl
+file, however.  Make sure that the data files have the same name before
+you use the sanemaker.pl files.  (For example, the original GenBank
+submission for Caulobacter crescentus has data files starting with
+AE005673.  The curated version has data files starting with NC_002696.)
+<p>
+A note about preprocessing - the basic procedure is to download
+all the data files from the GenBank site into a separate directory.
+Additional chromosomes or plasmids must all be in separate directories
+(we keep them in subdirectories).  Then, if there is an rnatab file
+available (see below), place it in the same directory.  If there is a
+sanemaker.pl file available (see below), place it in the same directory.
+Then, add the appropriate line to the org-map file (our org-map file
+is given as an example in org-map.sample) in the lib directory.  Then,
+if you're running bash, all you need to do is run:
+<p>
+<code>bash-prompt# preproc-new-genome.pl org-code 2>&1 > preproc-new-genome.log</code>
+<p>Or, if you're using csh,<p>
+<code>csh-prompt# preproc-new-genome.pl org-code >& preproc-new-genome.log</code>
+<p>
+within the new directory containing all the genome files.  Then you should be ready to go.  If you don't have tRNAScan or the GenBank BLAST software installed, don't worry, you can ignore the errors it gives you on those parts of the preprocessing.
+<p>
+Finally, if you write a new sanemaker.pl file for a new genome or have changes you think should be made to existing files, please let us know by <a href="mailto:slchen@users.sourceforge.net,williaml@users.sourceforge.net">email</a>.  Also let us know if you have problems/difficulties with these instructions.  We are working on a simpler system for handling all these data files and different versions, but hopefully these files will get you started.
+<p>
+<a href="genome-list.txt">List of genomes available</a><br>
+<a href="http://prdownloads.sourceforge.net/genome-tools/sanemakers-031703.tar.gz?download">File containing sanemaker.pl files</a><br>
+<a href="http://prdownloads.sourceforge.net/genome-tools/rnatabs-031703.tar.gz?download">File containing rnatab files</a><br>
+<p>
+<hr>
+<H3>March 13, 2003</H3>
+A mailing list is now available for updates for genome-tools.  Traffic on this mailing list will be very light, and restricted to updates and general announcements - for example, when new releases/features/genomes are added.  To subscribe, you can go to <a href="https://lists.sourceforge.net/mailman/listinfo/genome-tools-updates">https://lists.sourceforge.net/mailman/listinfo/genome-tools-updates</a> and follow the directions for subscribing on that page.
+<p>
+<hr>
+<H3>March 3, 2003</H3>
+A 1.0.1 release is now available at <a href="http://prdownloads.sourceforge.net/genome-tools/genome-tools-1.0.1.tar.gz?download">http://prdownloads.sourceforge.net/genome-tools/genome-tools-1.0.1.tar.gz?download</a>.  This (finally) has some installation instructions.  You still need to know your way around your system a little bit and be familiar with some command line utilities in order to get this to work, though.  Our apologies to those who may be having trouble installing the genome-tools package.  Hopefully this will help.
+<p>
+Still missing, however, are more explicit instructions on how to get genome files ready for use with genome-tools.  We've got close to 80 genomes processed and ready to go on our machine, and we'll try to make available all the sanemaker.pl files we have soon -- the rest of the files you will need are available on GenBank.  The major delay is that we need to make sure that the right version of the genome data and annotation files are used with each of our post-processing script, and we're working on making that a bit simpler, as well as simplifying the downloading of genomes from GenBank.
+<p>
+If you have questions, problems, requests, or comments, we'd love to hear from you.  You can get our email addresses from the project home page, at <a href="http://sourceforge.net/projects/genome-tools">http://sourceforge.net/projects/genome-tools</a>.
+<p>
+<hr>
+<H3>December 21, 2002</H3>
+A 1.0 release is now available at <a href="http://prdownloads.sourceforge.net/genome-tools/genome-tools-1.0.tar.gz?download">http://prdownloads.sourceforge.net/genome-tools/genome-tools-1.0.tar.gz?download</a>.  This is a minimal release.  We will put together more extensive documentation, especially for installation, in an upcoming release.  Please check back for more updates.
+<p>
+Also, a second version is in the works, which will fix some minor design inconsistencies and hopefully further simplify management of the genome sequence data files.
+<p>
+<hr>
+<H3>December 15, 2002</H3>
+The genome-tools web site is now available to the public.  For more information, you may wish to consult the paper describing genome-tools:
+<p>
+Lee, W. and Chen, S.L.  2002.  "Genome-Tools: A Flexible Package for Genome Sequence Analysis".  <i>Biotechniques</i> 33(6):1334-41.
+<p>
+For now, most prokaryotic organisms which were available as of the middle of 2002 are available for genome searches here.  Space permitting, we will be updating the list of genomes available shortly.
+<p>
+If you are interested in using genome-tools locally for genome analysis, we will soon be uploading the current version of the code to the sourceforge.net web site.  Please check back soon.  A second version is also in preparation right now, which should address a few design issues.
+<p>
+Thanks for your interest.
+<p>
+<hr>
+<a href="http://genome-tools.sourceforge.net">Back to http://genome-tools.sourceforge.net</a>
+<p>
+Powered by and many thanks to <a href="http://sourceforge.net">SourceForge.net</a>.
+<br>
+<A href="http://sourceforge.net"><IMG src="http://sourceforge.net/sflogo.php?group_id=45954&type=5" width="210" height="62" border="0" alt="SourceForge Logo"></A><br>
+<br>
+</p>
+</BODY>
+</HTML>

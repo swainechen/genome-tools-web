@@ -1,0 +1,673 @@
+acrp	$GENOMESPATH/Acidiphilium_cryptum_JF_5_uid58447/NC_009467	Acry_####	5	4,8	Acidiphilium cryptum	JF-5 plasmid pACRY01	20983	0
+acr2	$GENOMESPATH/Acidiphilium_cryptum_JF_5_uid58447/NC_009468	Acry_####	5	4,8	Acidiphilium cryptum	JF-5 plasmid pACRY02	20984	0
+acr3	$GENOMESPATH/Acidiphilium_cryptum_JF_5_uid58447/NC_009469	Acry_####	5	4,8	Acidiphilium cryptum	JF-5 plasmid pACRY03	20985	0
+acr4	$GENOMESPATH/Acidiphilium_cryptum_JF_5_uid58447/NC_009470	Acry_####	5	4,8	Acidiphilium cryptum	JF-5 plasmid pACRY04	20986	0
+acr5	$GENOMESPATH/Acidiphilium_cryptum_JF_5_uid58447/NC_009471	Acry_####	5	4,8	Acidiphilium cryptum	JF-5 plasmid pACRY05	20987	0
+acr6	$GENOMESPATH/Acidiphilium_cryptum_JF_5_uid58447/NC_009472	Acry_####	5	4,8	Acidiphilium cryptum	JF-5 plasmid pACRY06	20988	0
+acr7	$GENOMESPATH/Acidiphilium_cryptum_JF_5_uid58447/NC_009473	Acry_####	5	4,8	Acidiphilium cryptum	JF-5 plasmid pACRY07	20989	0
+acr8	$GENOMESPATH/Acidiphilium_cryptum_JF_5_uid58447/NC_009474	Acry_####	5	4,8	Acidiphilium cryptum	JF-5 plasmid pACRY08	20990	0
+acry	$GENOMESPATH/Acidiphilium_cryptum_JF_5_uid58447/NC_009484	Acry_####	5	4,8	Acidiphilium cryptum	JF-5	21000	0
+acel	$GENOMESPATH/Acidothermus_cellulolyticus_11B_uid58501/NC_008578	Acel_####	5	4,8	Acidothermus cellulolyticus	11B	20069	0
+aav1	$GENOMESPATH/Acidovorax_JS42_uid58427/NC_008765	Ajs_####	5	4,8	Acidovorax sp.	JS42 plasmid pAOVO01	20256	0
+aav2	$GENOMESPATH/Acidovorax_JS42_uid58427/NC_008766	Ajs_####	5	4,8	Acidovorax sp.	JS42 plasmid pAOVO02	20257	0
+acjs	$GENOMESPATH/Acidovorax_JS42_uid58427/NC_008782	Ajs_####	5	4,8	Acidovorax sp.	JS42	20273	0
+aba1	$GENOMESPATH/Acinetobacter_baumannii_ATCC_17978_uid58731/NC_009083	A1S_####	5	4,8	Acinetobacter baumannii	ATCC 17978 plasmid pAB1	20577	0
+aba2	$GENOMESPATH/Acinetobacter_baumannii_ATCC_17978_uid58731/NC_009084	A1S_####	5	4,8	Acinetobacter baumannii	ATCC 17978 plasmid pAB2	20578	0
+abau	$GENOMESPATH/Acinetobacter_baumannii_ATCC_17978_uid58731/NC_009085	A1S_####	5	4,8	Acinetobacter baumannii	ATCC 17978	20579	0
+asuc	$GENOMESPATH/Actinobacillus_succinogenes_130Z_uid58247/NC_009655	Asuc_####	5	4,8	Actinobacillus succinogenes	130Z	21212	0
+ahyd	$GENOMESPATH/Aeromonas_hydrophila_ATCC_7966_uid58617/NC_008570	AHA_####	5	4,8	Aeromonas hydrophila	subsp. hydrophila ATCC 7966	20061	0
+asal	$GENOMESPATH/Aeromonas_salmonicida_A449_uid58631/NC_009348	ASA_####	5	4,8	Aeromonas salmonicida	subsp. salmonicida A449	20863	0
+asa4	$GENOMESPATH/Aeromonas_salmonicida_A449_uid58631/NC_009349	ASA_P4G###	5	4,8	Aeromonas salmonicida	subsp. salmonicida A449 plasmid 4, complete	20864	0
+asa5	$GENOMESPATH/Aeromonas_salmonicida_A449_uid58631/NC_009350	ASA_P5G###	5	4,8	Aeromonas salmonicida	subsp. salmonicida A449 plasmid 5, complete	20865	0
+abor	$GENOMESPATH/Alcanivorax_borkumensis_SK2_uid58169/NC_008260	ABO_####	5	4,8	Alcanivorax borkumensis	SK2	19683	0
+amet	$GENOMESPATH/Alkaliphilus_metalliredigens_QYMF_uid58171/NC_009633	Amet_####	5	4,8	Alkaliphilus metalliredigens	QYMF	21190	0
+avaA	$GENOMESPATH/Anabaena_variabilis_ATCC_29413_uid58043/NC_007410	Ava_B####	5	4,8	Anabaena variabilis	ATCC 29413 plasmid A	18760	0
+avaB	$GENOMESPATH/Anabaena_variabilis_ATCC_29413_uid58043/NC_007411	Ava_A####	5	4,8	Anabaena variabilis	ATCC 29413 plasmid B	18761	0
+avaC	$GENOMESPATH/Anabaena_variabilis_ATCC_29413_uid58043/NC_007412	Ava_C####	5	4,8	Anabaena variabilis	ATCC 29413 plasmid C	18762	0
+avar	$GENOMESPATH/Anabaena_variabilis_ATCC_29413_uid58043/NC_007413	Ava_####	5	4,8	Anabaena variabilis	ATCC 29413	18763	0
+adeh	$GENOMESPATH/Anaeromyxobacter_dehalogenans_2CP_C_uid58135/NC_007760	Adeh_####	5	4,8	Anaeromyxobacter dehalogenans	2CP-C	19177	0
+anae	$GENOMESPATH/Anaeromyxobacter_Fw109_5_uid58755/NC_009675	Anae109_####	5	4,8	Anaeromyxobacter sp.	Fw109-5	21232	0
+apha	$GENOMESPATH/Anaplasma_phagocytophilum_HZ_uid57951/NC_007797	APH_####	5	4,8	Anaplasma phagocytophilum	HZ	19215	0
+aaur	$GENOMESPATH/Arthrobacter_aurescens_TC1_uid58109/NC_008711	AAur_####	5	4,8	Arthrobacter aurescens	TC1	20202	0
+aau1	$GENOMESPATH/Arthrobacter_aurescens_TC1_uid58109/NC_008712	AAur_pTC1####	5	4,8	Arthrobacter aurescens	TC1 plasmid TC1	20203	0
+aau2	$GENOMESPATH/Arthrobacter_aurescens_TC1_uid58109/NC_008713	AAur_pTC2####	5	4,8	Arthrobacter aurescens	TC1 plasmid TC2	20204	0
+art1	$GENOMESPATH/Arthrobacter_FB24_uid58141/NC_008537	Arth_####	5	4,8	Arthrobacter sp.	FB24 plasmid 1	20027	0
+art2	$GENOMESPATH/Arthrobacter_FB24_uid58141/NC_008538	Arth_####	5	4,8	Arthrobacter sp.	FB24 plasmid 2	20028	0
+art3	$GENOMESPATH/Arthrobacter_FB24_uid58141/NC_008539	Arth_####	5	4,8	Arthrobacter sp.	FB24 plasmid 3	20029	0
+arth	$GENOMESPATH/Arthrobacter_FB24_uid58141/NC_008541	Arth_####	5	4,8	Arthrobacter sp.	FB24 chromosome 1	20031	0
+aywb	$GENOMESPATH/Aster_yellows_witches_broom_phytoplasma_AYWB_uid58297/NC_007716	AYWB_###	5	4,8	Aster yellows	witches'-broom phytoplasma AYWB	19132	0
+ayw1	$GENOMESPATH/Aster_yellows_witches_broom_phytoplasma_AYWB_uid58297/NC_007717	AYWB_pI##	5	4,8	Aster yellows	witches'-broom phytoplasma AYWB plasmid pAYWB-I,	19133	0
+ayw2	$GENOMESPATH/Aster_yellows_witches_broom_phytoplasma_AYWB_uid58297/NC_007718	AYWB_pII##	5	4,8	Aster yellows	witches'-broom phytoplasma AYWB plasmid pAYWB-II,	19134	0
+ayw3	$GENOMESPATH/Aster_yellows_witches_broom_phytoplasma_AYWB_uid58297/NC_007719	AYWB_pIII##	5	4,8	Aster yellows	witches'-broom phytoplasma AYWB plasmid pAYWB-III,	19135	0
+ayw4	$GENOMESPATH/Aster_yellows_witches_broom_phytoplasma_AYWB_uid58297/NC_007720	AYWB_pIV##	5	4,8	Aster yellows	witches'-broom phytoplasma AYWB plasmid pAYWB-IV,	19136	0
+azoa	$GENOMESPATH/Azoarcus_BH72_uid61603/NC_008702	azo####	5	4,8	Azoarcus sp.	BH72	20193	0
+bamy	$GENOMESPATH/Bacillus_amyloliquefaciens_FZB42_uid58271/NC_009725	RBAM_0#####	5	4,8	Bacillus amyloliquefaciens	FZB42	21282	0
+bant	$GENOMESPATH/Bacillus_anthracis_Ames_uid57909/NC_003997	BA####	5	4,8	Bacillus anthracis	str. Ames	299	0
+bc87	$GENOMESPATH/Bacillus_cereus_ATCC_10987_uid57673/NC_003909	BCE_####	5	4,8	Bacillus cereus	ATCC 10987	386	0
+bc8p	$GENOMESPATH/Bacillus_cereus_ATCC_10987_uid57673/NC_005707	BCE_A####	5	4,8	Bacillus cereus	ATCC 10987 plasmid pBc10987	17594	0
+bcep	$GENOMESPATH/Bacillus_cereus_ATCC_14579_uid57975/NC_004721	BCp####	5	4,8	Bacillus cereus	ATCC 14579 plasmid pBClin15	17017	1
+bcer	$GENOMESPATH/Bacillus_cereus_ATCC_14579_uid57975/NC_004722	BC####	5	4,8	Bacillus cereus	ATCC 14579	296	0
+bcla	$GENOMESPATH/Bacillus_clausii_KSM_K16_uid58237/NC_006582	ABC####	5	4,8	Bacillus clausii	KSM-K16	565	0
+bth1	$GENOMESPATH/Bacillus_thuringiensis_Al_Hakam_uid58795/NC_008598	BALH_p####	5	4,8	Bacillus thuringiensis	str. Al Hakam plasmid pALH1, complete	20089	0
+bthA	$GENOMESPATH/Bacillus_thuringiensis_Al_Hakam_uid58795/NC_008600	BALH_####	5	4,8	Bacillus thuringiensis	str. Al Hakam	20091	0
+bfrp	$GENOMESPATH/Bacteroides_fragilis_YCH46_uid58195/NC_006297	BFp####	5	4,8	Bacteroides fragilis	YCH46 plasmid pBFY46	17933	0
+bfra	$GENOMESPATH/Bacteroides_fragilis_YCH46_uid58195/NC_006347	BF####	5	4,8	Bacteroides fragilis	YCH46	501	0
+bthe	$GENOMESPATH/Bacteroides_thetaiotaomicron_VPI_5482_uid62913/NC_004663	BT_####	5	4,8	Bacteroides thetaiotaomicron	VPI-5482	291	0
+btVp	$GENOMESPATH/Bacteroides_thetaiotaomicron_VPI_5482_uid62913/NC_004703	p5482_##	5	4,8	Bacteroides thetaiotaomicron	VPI-5482 plasmid p5482, complete	17001	0
+bvul	$GENOMESPATH/Bacteroides_vulgatus_ATCC_8482_uid58253/NC_009614	BVU_####	5	4,8	Bacteroides vulgatus	ATCC 8482	21171	0
+bbac	$GENOMESPATH/Bartonella_bacilliformis_KC583_uid58533/NC_008783	BARBAKC583_####	5	4,8	Bartonella bacilliformis	KC583	20274	0
+bhen	$GENOMESPATH/Bartonella_henselae_Houston_1_uid57745/NC_005956	BH#####	5	4,8	Bartonella henselae	str. Houston-1	409	0
+bqui	$GENOMESPATH/Bartonella_quintana_Toulouse_uid57635/NC_005955	BQ#####	5	4,8	Bartonella quintana	str. Toulouse	408	0
+bado	$GENOMESPATH/Bifidobacterium_adolescentis_ATCC_15703_uid58559/NC_008618	BAD_####	5	4,8	Bifidobacterium adolescentis	ATCC 15703	20109	0
+baf1	$GENOMESPATH/Borrelia_afzelii_PKo_uid58653/NC_008273	BAPKO_####	5	4,8	Borrelia afzelii	PKo plasmid cp30	19696	0
+baf2	$GENOMESPATH/Borrelia_afzelii_PKo_uid58653/NC_008274	BAPKO_####	5	4,8	Borrelia afzelii	PKo plasmid cp27	19697	0
+bafz	$GENOMESPATH/Borrelia_afzelii_PKo_uid58653/NC_008277	BAPKO_####	5	4,8	Borrelia afzelii	PKo	19700	1
+baf3	$GENOMESPATH/Borrelia_afzelii_PKo_uid58653/NC_008564	BAPKO_####	5	4,8	Borrelia afzelii	PKo plasmid lp60	20055	1
+baf4	$GENOMESPATH/Borrelia_afzelii_PKo_uid58653/NC_008565	BAPKO_####	5	4,8	Borrelia afzelii	PKo plasmid lp60-2	20056	1
+baf5	$GENOMESPATH/Borrelia_afzelii_PKo_uid58653/NC_008566	BAPKO_####	5	4,8	Borrelia afzelii	PKo plasmid lp34	20057	1
+baf6	$GENOMESPATH/Borrelia_afzelii_PKo_uid58653/NC_008567	BAPKO_####	5	4,8	Borrelia afzelii	PKo plasmid lp32	20058	1
+baf7	$GENOMESPATH/Borrelia_afzelii_PKo_uid58653/NC_008568	BAPKO_####	5	4,8	Borrelia afzelii	PKo plasmid lp28	20059	1
+baf8	$GENOMESPATH/Borrelia_afzelii_PKo_uid58653/NC_008569	BAPKO_####	5	4,8	Borrelia afzelii	PKo plasmid lp25	20060	1
+bg26	$GENOMESPATH/Borrelia_garinii_PBi_uid58125/NC_006128	BGB##	5	4,8	Borrelia garinii	PBi plasmid cp26	17858	1
+bg54	$GENOMESPATH/Borrelia_garinii_PBi_uid58125/NC_006129	BGA##	5	4,8	Borrelia garinii	PBi plasmid lp54	17859	1
+bgar	$GENOMESPATH/Borrelia_garinii_PBi_uid58125/NC_006156	BG####	5	4,8	Borrelia garinii	PBi chromosome linear	495	1
+bra1	$GENOMESPATH/Bradyrhizobium_BTAi1_uid58505/NC_009475	BBta_p####	5	4,8	Bradyrhizobium sp.	BTAi1 plasmid pBBta01	20991	0
+brad	$GENOMESPATH/Bradyrhizobium_BTAi1_uid58505/NC_009485	BBta_####	5	4,8	Bradyrhizobium sp.	BTAi1	21001	0
+braO	$GENOMESPATH/Bradyrhizobium_ORS_278_uid58941/NC_009445	BRADO####	5	4,8	Bradyrhizobium sp.	ORS278	20960	0
+bsu1	$GENOMESPATH/Brucella_suis_1330_uid57927/NC_004310	BR####	5	4,8	Brucella suis	1330 chromosome I	255	0
+bsu2	$GENOMESPATH/Brucella_suis_1330_uid57927/NC_004311	BRA####	5	4,8	Brucella suis	1330 chromosome II	256	0
+bur3	$GENOMESPATH/Burkholderia_383_uid58073/NC_007509	Bcep18194_C####	5	4,8	Burkholderia sp.	383 chromosome 3	18859	0
+bur1	$GENOMESPATH/Burkholderia_383_uid58073/NC_007510	Bcep18194_A####	5	4,8	Burkholderia sp.	383 chromosome 1	18860	0
+bur2	$GENOMESPATH/Burkholderia_383_uid58073/NC_007511	Bcep18194_B####	5	4,8	Burkholderia sp.	383 chromosome 2	18861	0
+bce1	$GENOMESPATH/Burkholderia_cenocepacia_AU_1054_uid58371/NC_008060	Bcen_####	5	4,8	Burkholderia cenocepacia	AU 1054 chromosome 1	19480	0
+bce2	$GENOMESPATH/Burkholderia_cenocepacia_AU_1054_uid58371/NC_008061	Bcen_####	5	4,8	Burkholderia cenocepacia	AU 1054 chromosome 2	19482	0
+bce3	$GENOMESPATH/Burkholderia_cenocepacia_AU_1054_uid58371/NC_008062	Bcen_####	5	4,8	Burkholderia cenocepacia	AU 1054 chromosome 3	19483	0
+bcH1	$GENOMESPATH/Burkholderia_cenocepacia_HI2424_uid58369/NC_008542	Bcen2424_####	5	4,8	Burkholderia cenocepacia	HI2424 chromosome 1	20032	0
+bcH2	$GENOMESPATH/Burkholderia_cenocepacia_HI2424_uid58369/NC_008543	Bcen2424_####	5	4,8	Burkholderia cenocepacia	HI2424 chromosome 2	20033	0
+bcH3	$GENOMESPATH/Burkholderia_cenocepacia_HI2424_uid58369/NC_008544	Bcen2424_####	5	4,8	Burkholderia cenocepacia	HI2424 chromosome 3	20034	0
+bcH4	$GENOMESPATH/Burkholderia_cenocepacia_HI2424_uid58369/NC_008545	Bcen2424_####	5	4,8	Burkholderia cenocepacia	HI2424 plasmid 1	20035	0
+bma1	$GENOMESPATH/Burkholderia_mallei_ATCC_23344_uid57725/NC_006348	BMA####	5	4,8	Burkholderia mallei	ATCC 23344 chromosome 1	499	0
+bma2	$GENOMESPATH/Burkholderia_mallei_ATCC_23344_uid57725/NC_006349	BMAA####	5	4,8	Burkholderia mallei	ATCC 23344 chromosome 2	500	0
+bmN1	$GENOMESPATH/Burkholderia_mallei_NCTC_10229_uid58383/NC_008835	BMA10299_####	5	4,8	Burkholderia mallei	NCTC 10229 chromosome I	20326	0
+bmN2	$GENOMESPATH/Burkholderia_mallei_NCTC_10229_uid58383/NC_008836	BMA10299_A####	5	4,8	Burkholderia mallei	NCTC 10229 chromosome II	20328	0
+bm71	$GENOMESPATH/Burkholderia_mallei_NCTC_10247_uid58385/NC_009079	BMA10247_A####	5	4,8	Burkholderia mallei	NCTC 10247 chromosome I	20573	0
+bm72	$GENOMESPATH/Burkholderia_mallei_NCTC_10247_uid58385/NC_009080	BMA10247_####	5	4,8	Burkholderia mallei	NCTC 10247 chromosome II	20574	0
+bmS1	$GENOMESPATH/Burkholderia_mallei_SAVP1_uid58387/NC_008784	BMASAVP1_####	5	4,8	Burkholderia mallei	SAVP1 chromosome I	20275	0
+bmS2	$GENOMESPATH/Burkholderia_mallei_SAVP1_uid58387/NC_008785	BMASAVP1_A####	5	4,8	Burkholderia mallei	SAVP1 chromosome II	20276	0
+bpm1	$GENOMESPATH/Burkholderia_pseudomallei_1106a_uid58515/NC_009076	BURPS1106A_####	5	4,8	Burkholderia pseudomallei	1106a chromosome I	20569	0
+bpm2	$GENOMESPATH/Burkholderia_pseudomallei_1106a_uid58515/NC_009078	BURPS1106A_A####	5	4,8	Burkholderia pseudomallei	1106a chromosome II	20572	0
+bp11	$GENOMESPATH/Burkholderia_pseudomallei_1710b_uid58391/NC_007434	BURPS1710b_####	5	4,8	Burkholderia pseudomallei	1710b chromosome I	18784	0
+bp12	$GENOMESPATH/Burkholderia_pseudomallei_1710b_uid58391/NC_007435	BURPS1710b_A####	5	4,8	Burkholderia pseudomallei	1710b chromosome II	18785	0
+bp61	$GENOMESPATH/Burkholderia_pseudomallei_668_uid58389/NC_009074	BURPS668_####	5	4,8	Burkholderia pseudomallei	668 chromosome I	20566	0
+bp62	$GENOMESPATH/Burkholderia_pseudomallei_668_uid58389/NC_009075	BURPS668_A####	5	4,8	Burkholderia pseudomallei	668 chromosome II	20568	0
+bps1	$GENOMESPATH/Burkholderia_pseudomallei_K96243_uid57733/NC_006350	BPSL####	5	4,8	Burkholderia pseudomallei	K96243 chromosome 1	505	0
+bps2	$GENOMESPATH/Burkholderia_pseudomallei_K96243_uid57733/NC_006351	BPSS####	5	4,8	Burkholderia pseudomallei	K96243 chromosome 2	506	0
+btE2	$GENOMESPATH/Burkholderia_thailandensis_E264_uid58081/NC_007650	BTH_II####	5	4,8	Burkholderia thailandensis	E264 chromosome II	19066	0
+btE1	$GENOMESPATH/Burkholderia_thailandensis_E264_uid58081/NC_007651	BTH_I####	5	4,8	Burkholderia thailandensis	E264 chromosome I	19067	0
+bvp5	$GENOMESPATH/Burkholderia_vietnamiensis_G4_uid58075/NC_009226	Bcep1808_####	5	4,8	Burkholderia vietnamiensis	G4 plasmid pBVIE05	20722	0
+bvp2	$GENOMESPATH/Burkholderia_vietnamiensis_G4_uid58075/NC_009227	Bcep1808_####	5	4,8	Burkholderia vietnamiensis	G4 plasmid pBVIE02	20723	0
+bvp4	$GENOMESPATH/Burkholderia_vietnamiensis_G4_uid58075/NC_009228	Bcep1808_####	5	4,8	Burkholderia vietnamiensis	G4 plasmid pBVIE04	20724	0
+bvp3	$GENOMESPATH/Burkholderia_vietnamiensis_G4_uid58075/NC_009229	Bcep1808_####	5	4,8	Burkholderia vietnamiensis	G4 plasmid pBVIE03	20725	0
+bvp1	$GENOMESPATH/Burkholderia_vietnamiensis_G4_uid58075/NC_009230	Bcep1808_####	5	4,8	Burkholderia vietnamiensis	G4 plasmid pBVIE01	20726	0
+bvi3	$GENOMESPATH/Burkholderia_vietnamiensis_G4_uid58075/NC_009254	Bcep1808_####	5	4,8	Burkholderia vietnamiensis	G4 chromosome 3	20750	0
+bvi2	$GENOMESPATH/Burkholderia_vietnamiensis_G4_uid58075/NC_009255	Bcep1808_####	5	4,8	Burkholderia vietnamiensis	G4 chromosome 2	20751	0
+bvi1	$GENOMESPATH/Burkholderia_vietnamiensis_G4_uid58075/NC_009256	Bcep1808_####	5	4,8	Burkholderia vietnamiensis	G4 chromosome 1	20752	0
+bxe1	$GENOMESPATH/Burkholderia_xenovorans_LB400_uid57823/NC_007951	Bxe_A####	5	4,8	Burkholderia xenovorans	LB400 chromosome 1	19370	0
+bxe2	$GENOMESPATH/Burkholderia_xenovorans_LB400_uid57823/NC_007952	Bxe_B####	5	4,8	Burkholderia xenovorans	LB400 chromosome 2	19371	0
+bxe3	$GENOMESPATH/Burkholderia_xenovorans_LB400_uid57823/NC_007953	Bxe_C####	5	4,8	Burkholderia xenovorans	LB400 chromosome 3	19372	0
+csac	$GENOMESPATH/Caldicellulosiruptor_saccharolyticus_DSM_8903_uid58289/NC_009437	Csac_####	5	4,8	Caldicellulosiruptor saccharolyticus	DSM 8903	20952	0
+ccur	$GENOMESPATH/Campylobacter_curvus_525_92_uid58669/NC_009715	CCV52592_####	5	4,8	Campylobacter curvus	525.92	21272	0
+cfet	$GENOMESPATH/Campylobacter_fetus_82_40_uid58545/NC_008599	CFF8240_####	5	4,8	Campylobacter fetus	subsp. fetus 82-40	20090	0
+cho4	$GENOMESPATH/Campylobacter_hominis_ATCC_BAA_381_uid58981/NC_009713	CHAB381_A####	5	4,8	Campylobacter hominis	ATCC BAA-381 plasmid pCH4	21270	0
+chom	$GENOMESPATH/Campylobacter_hominis_ATCC_BAA_381_uid58981/NC_009714	CHAB381_####	5	4,8	Campylobacter hominis	ATCC BAA-381	21271	0
+cjpv	$GENOMESPATH/Campylobacter_jejuni_81_176_uid58503/NC_008770	CJJ81176_pVir####	5	4,8	Campylobacter jejuni	subsp. jejuni 81-176 plasmid pVir, complete	20261	0
+cj81	$GENOMESPATH/Campylobacter_jejuni_81_176_uid58503/NC_008787	CJJ81176_####	5	4,8	Campylobacter jejuni	subsp. jejuni 81-176	20278	0
+cj8p	$GENOMESPATH/Campylobacter_jejuni_81_176_uid58503/NC_008790	CJJ81176_pTet####	5	4,8	Campylobacter jejuni	subsp. jejuni 81-176 plasmid pTet, complete	20281	1
+cjed	$GENOMESPATH/Campylobacter_jejuni_doylei_269_97_uid58671/NC_009707	JJD26997_####	5	4,8	Campylobacter jejuni	subsp. doylei 269.97	21264	0
+cjeR	$GENOMESPATH/Campylobacter_jejuni_RM1221_uid57899/NC_003912	CJE####	5	4,8	Campylobacter jejuni	RM1221	606	0
+bflo	$GENOMESPATH/Candidatus_Blochmannia_floridanus_uid57999/NC_005061	Bfl###	5	4,8	Candidatus Blochmannia	floridanus	312	0
+bpen	$GENOMESPATH/Candidatus_Blochmannia_pennsylvanicus_BPEN_uid58329/NC_007292	BPEN_###	5	4,8	Candidatus Blochmannia	pennsylvanicus str. BPEN	18615	0
+cpel	$GENOMESPATH/Candidatus_Pelagibacter_ubique_HTCC1062_uid58401/NC_007205	SAR11_####	5	4,8	Candidatus Pelagibacter	ubique HTCC1062	18526	0
+cves	$GENOMESPATH/Candidatus_Vesicomyosocius_okutanii_HA_uid59427/NC_009465	COSY_####	5	4,8	Candidatus Vesicomyosocius	okutanii HA	20981	0
+chyd	$GENOMESPATH/Carboxydothermus_hydrogenoformans_Z_2901_uid57821/NC_007503	CHY_####	5	4,8	Carboxydothermus hydrogenoformans	Z-2901	18853	0
+ctAc	$GENOMESPATH/Chlamydia_trachomatis_A_HAR_13_uid58333/NC_007429	CTA_####	5	4,8	Chlamydia trachomatis	A/HAR-13	18779	0
+ctAp	$GENOMESPATH/Chlamydia_trachomatis_A_HAR_13_uid58333/NC_007430	pCTA_####	5	4,8	Chlamydia trachomatis	A/HAR-13 plasmid pCTA	18780	0
+cabo	$GENOMESPATH/Chlamydophila_abortus_S26_3_uid57963/NC_004552	CAB###	5	4,8	Chlamydophila abortus	S26/3	646	0
+cfel	$GENOMESPATH/Chlamydophila_felis_Fe_C_56_uid57971/NC_007899	CF####	5	4,8	Chlamydophila felis	Fe/C-56	19318	0
+cfe1	$GENOMESPATH/Chlamydophila_felis_Fe_C_56_uid57971/NC_007900	pCF##	5	4,8	Chlamydophila felis	Fe/C-56 plasmid pCfe1	19319	0
+cpnA	$GENOMESPATH/Chlamydophila_pneumoniae_AR39_uid57809/NC_002179	CP####	5	4,8	Chlamydophila pneumoniae	AR39	154	0
+cpnC	$GENOMESPATH/Chlamydophila_pneumoniae_CWL029_uid57811/NC_000922	CPn####	5	4,8	Chlamydophila pneumoniae	CWL029	140	0
+cpnJ	$GENOMESPATH/Chlamydophila_pneumoniae_J138_uid57829/NC_002491	CPj####	5	4,8	Chlamydophila pneumoniae	J138	160	0
+cpTW	$GENOMESPATH/Chlamydophila_pneumoniae_TW_183_uid57997/NC_005043	CpB####	5	4,8	Chlamydophila pneumoniae	TW-183	311	0
+cchl	$GENOMESPATH/Chlorobium_chlorochromatii_CaD3_uid58375/NC_007514	Cag_####	5	4,8	Chlorobium chlorochromatii	CaD3	18909	0
+cpha	$GENOMESPATH/Chlorobium_phaeobacteroides_DSM_266_uid58133/NC_008639	Cpha266_####	5	4,8	Chlorobium phaeobacteroides	DSM 266	20130	0
+ctep	$GENOMESPATH/Chlorobium_tepidum_TLS_uid57897/NC_002932	CT####	5	4,8	Chlorobium tepidum	TLS	247	0
+csal	$GENOMESPATH/Chromohalobacter_salexigens_DSM_3043_uid62921/NC_007963	Csal_####	5	4,8	Chromohalobacter salexigens	DSM 3043	19382	0
+cmip	$GENOMESPATH/Clavibacter_michiganensis_NCPPB_382_uid61625/NC_009478	pCM1_####	5	4,8	Clavibacter michiganensis	subsp. michiganensis NCPPB 382 plasmid	20994	0
+cmi2	$GENOMESPATH/Clavibacter_michiganensis_NCPPB_382_uid61625/NC_009479	pCM2_####	5	4,8	Clavibacter michiganensis	subsp. michiganensis NCPPB 382 plasmid	20995	0
+cmic	$GENOMESPATH/Clavibacter_michiganensis_NCPPB_382_uid61625/NC_009480	CMM_####	5	4,8	Clavibacter michiganensis	subsp. michiganensis NCPPB 382, complete	20996	0
+cbei	$GENOMESPATH/Clostridium_beijerinckii_NCIMB_8052_uid58137/NC_009617	Cbei_####	5	4,8	Clostridium beijerinckii	NCIMB 8052	21174	0
+cbot	$GENOMESPATH/Clostridium_botulinum_A_ATCC_19397_uid58927/NC_009697	CLB_####	5	4,8	Clostridium botulinum	A str. ATCC 19397	21254	0
+cboh	$GENOMESPATH/Clostridium_botulinum_A_Hall_uid58931/NC_009698	CLC_####	5	4,8	Clostridium botulinum	A str. Hall	21255	0
+cboF	$GENOMESPATH/Clostridium_botulinum_F_Langeland_uid58929/NC_009699	CLI_####	5	4,8	Clostridium botulinum	F str. Langeland	21256	0
+cbFp	$GENOMESPATH/Clostridium_botulinum_F_Langeland_uid58929/NC_009700	CLI_A####	5	4,8	Clostridium botulinum	F str. Langeland plasmid pCLI, complete	21257	0
+cdpC	$GENOMESPATH/Clostridium_difficile_630_uid57679/NC_008226	CDP##	5	4,8	Clostridium difficile	630 plasmid pCD630	19648	0
+cdif	$GENOMESPATH/Clostridium_difficile_630_uid57679/NC_009089	CD####	5	4,8	Clostridium difficile	630	20585	0
+cklp	$GENOMESPATH/Clostridium_kluyveri_DSM_555_uid58885/NC_009466	CKL_####	5	4,8	Clostridium kluyveri	DSM 555 plasmid pCKL555A	20982	0
+cklu	$GENOMESPATH/Clostridium_kluyveri_DSM_555_uid58885/NC_009706	CKL_####	5	4,8	Clostridium kluyveri	DSM 555	21263	0
+cnov	$GENOMESPATH/Clostridium_novyi_NT_uid58643/NC_008593	NT01CX_####	5	4,8	Clostridium novyi	NT	20084	0
+cpeA	$GENOMESPATH/Clostridium_perfringens_ATCC_13124_uid57901/NC_008261	CPF_####	5	4,8	Clostridium perfringens	ATCC 13124	19684	0
+cpeS	$GENOMESPATH/Clostridium_perfringens_SM101_uid58117/NC_008262	CPR_####	5	4,8	Clostridium perfringens	SM101	19685	0
+cpS1	$GENOMESPATH/Clostridium_perfringens_SM101_uid58117/NC_008263	CPR_A####	5	4,8	Clostridium perfringens	SM101 plasmid 1	19686	0
+cpS2	$GENOMESPATH/Clostridium_perfringens_SM101_uid58117/NC_008264	CPR_B####	5	4,8	Clostridium perfringens	SM101 plasmid 2	19687	0
+cpph	$GENOMESPATH/Clostridium_perfringens_SM101_uid58117/NC_008265	CPR_C####	5	4,8	Clostridium perfringens	phage phiSM101	19688	0
+ctet	$GENOMESPATH/Clostridium_tetani_E88_uid57683/NC_004557	CTC#####	5	4,8	Clostridium tetani	E88	275	0
+ctpE	$GENOMESPATH/Clostridium_tetani_E88_uid57683/NC_004565	ctp##	4	5,8	Clostridium tetani	E88 plasmid pE88	16882	0
+cthe	$GENOMESPATH/Clostridium_thermocellum_ATCC_27405_uid57917/NC_009012	Cthe_####	5	4,8	Clostridium thermocellum	ATCC 27405	20502	0
+cpsy	$GENOMESPATH/Colwellia_psychrerythraea_34H_uid57855/NC_003910	CPS_####	5	4,8	Colwellia psychrerythraea	34H	18527	0
+ceff	$GENOMESPATH/Corynebacterium_efficiens_YS_314_uid62905/NC_004369	CE####	5	4,8	Corynebacterium efficiens	YS-314	265	0
+cglR	$GENOMESPATH/Corynebacterium_glutamicum_R_uid58897/NC_009342	cgR_####	5	4,8	Corynebacterium glutamicum	R	20857	0
+cgR1	$GENOMESPATH/Corynebacterium_glutamicum_R_uid58897/NC_009343	cgR_p####	5	4,8	Corynebacterium glutamicum	R plasmid pCGR1	20858	0
+cjep	$GENOMESPATH/Corynebacterium_jeikeium_K411_uid58399/NC_003080	pKW4p##	5	4,8	Corynebacterium jeikeium	K411 plasmid pKW4	15765	0
+cjei	$GENOMESPATH/Corynebacterium_jeikeium_K411_uid58399/NC_007164	jk####	5	4,8	Corynebacterium jeikeium	K411	18482	0
+chut	$GENOMESPATH/Cytophaga_hutchinsonii_ATCC_33406_uid57651/NC_008255	CHU_####	5	4,8	Cytophaga hutchinsonii	ATCC 33406	19678	0
+daro	$GENOMESPATH/Dechloromonas_aromatica_RCB_uid58025/NC_007298	Daro_####	5	4,8	Dechloromonas aromatica	RCB	18621	0
+deha	$GENOMESPATH/Dehalococcoides_BAV1_uid58477/NC_009455	DehaBAV1_####	5	4,8	Dehalococcoides sp.	BAV1	20970	0
+deCB	$GENOMESPATH/Dehalococcoides_CBDB1_uid58413/NC_007356	cbdb_A####	5	4,8	Dehalococcoides sp.	CBDB1	18679	0
+deth	$GENOMESPATH/Dehalococcoides_ethenogenes_195_uid57763/NC_002936	DET####	5	4,8	Dehalococcoides ethenogenes	195	607	0
+dge1	$GENOMESPATH/Deinococcus_geothermalis_DSM_11300_uid58275/NC_008010	Dgeo_####	5	4,8	Deinococcus geothermalis	DSM 11300 plasmid 1	19429	0
+dgeo	$GENOMESPATH/Deinococcus_geothermalis_DSM_11300_uid58275/NC_008025	Dgeo_####	5	4,8	Deinococcus geothermalis	DSM 11300	19444	0
+dhaf	$GENOMESPATH/Desulfitobacterium_hafniense_Y51_uid58605/NC_007907	DSY####	5	4,8	Desulfitobacterium hafniense	Y51	19326	0
+dpsy	$GENOMESPATH/Desulfotalea_psychrophila_LSv54_uid58153/NC_006138	DP####	5	4,8	Desulfotalea psychrophila	LSv54	490	0
+dpsB	$GENOMESPATH/Desulfotalea_psychrophila_LSv54_uid58153/NC_006139	DPPB###	5	4,8	Desulfotalea psychrophila	LSv54 plasmid large	18234	1
+dpsA	$GENOMESPATH/Desulfotalea_psychrophila_LSv54_uid58153/NC_006140	DPPA##	5	4,8	Desulfotalea psychrophila	LSv54 plasmid small	18235	1
+dred	$GENOMESPATH/Desulfotomaculum_reducens_MI_1_uid58277/NC_009253	Dred_####	5	4,8	Desulfotomaculum reducens	MI-1	20749	0
+dvu1	$GENOMESPATH/Desulfovibrio_vulgaris_DP4_uid58679/NC_008741	Dvul_####	5	4,8	Desulfovibrio vulgaris	subsp. vulgaris DP4 plasmid pDVUL01,	20232	0
+dvuD	$GENOMESPATH/Desulfovibrio_vulgaris_DP4_uid58679/NC_008751	Dvul_####	5	4,8	Desulfovibrio vulgaris	subsp. vulgaris DP4	20242	0
+dvul	$GENOMESPATH/Desulfovibrio_vulgaris_Hildenborough_uid57645/NC_002937	DVU####	5	4,8	Desulfovibrio vulgaris	subsp. vulgaris str. Hildenborough, complete	400	0
+dvuM	$GENOMESPATH/Desulfovibrio_vulgaris_Hildenborough_uid57645/NC_005863	DVUA####	5	4,8	Desulfovibrio vulgaris	subsp. vulgaris str. Hildenborough	17670	0
+dnod	$GENOMESPATH/Dichelobacter_nodosus_VCS1703A_uid57643/NC_009446	DNO_####	5	4,8	Dichelobacter nodosus	VCS1703A	20961	0
+ecaj	$GENOMESPATH/Ehrlichia_canis_Jake_uid58071/NC_007354	Ecaj_####	5	4,8	Ehrlichia canis	str. Jake	18677	0
+echA	$GENOMESPATH/Ehrlichia_chaffeensis_Arkansas_uid57933/NC_007799	ECH_####	5	4,8	Ehrlichia chaffeensis	str. Arkansas	19217	0
+erga	$GENOMESPATH/Ehrlichia_ruminantium_Gardel_uid58245/NC_006831	ERGA_CDS_#####	5	4,8	Ehrlichia ruminantium	str. Gardel	628	0
+ent1	$GENOMESPATH/Enterobacter_638_uid58727/NC_009425	Ent638_####	5	4,8	Enterobacter sp.	638 plasmid pENTE01	20940	0
+ent6	$GENOMESPATH/Enterobacter_638_uid58727/NC_009436	Ent638_####	5	4,8	Enterobacter sp.	638	20951	0
+efae	$GENOMESPATH/Enterococcus_faecalis_V583_uid57669/NC_004668	EF####	5	4,8	Enterococcus faecalis	V583	292	0
+efp1	$GENOMESPATH/Enterococcus_faecalis_V583_uid57669/NC_004669	EFA####	5	4,8	Enterococcus faecalis	V583 plasmid pTEF1	16967	0
+efp3	$GENOMESPATH/Enterococcus_faecalis_V583_uid57669/NC_004670	EF_C####	5	4,8	Enterococcus faecalis	V583 plasmid pTEF3	16968	0
+efp2	$GENOMESPATH/Enterococcus_faecalis_V583_uid57669/NC_004671	EF_B####	5	4,8	Enterococcus faecalis	V583 plasmid pTEF2	16969	0
+elit	$GENOMESPATH/Erythrobacter_litoralis_HTCC2594_uid58299/NC_007722	ELI_#####	5	4,8	Erythrobacter litoralis	HTCC2594	19139	0
+eco5	$GENOMESPATH/Escherichia_coli_536_uid58531/NC_008253	ECP_####	5	4,8	Escherichia coli	536	19676	0
+ecoA	$GENOMESPATH/Escherichia_coli_APEC_O1_uid58623/NC_008563	APECO1_####	5	4,8	Escherichia coli	APEC O1	20054	0
+ecoC	$GENOMESPATH/Escherichia_coli_CFT073_uid57915/NC_004431	c####	5	4,8	Escherichia coli	CFT073	267	0
+utip	$GENOMESPATH/Escherichia_coli_UTI89_uid58541/NC_007941	UTI89_P###	5	4,8	Escherichia coli	UTI89 plasmid pUTI89	19360	0
+uti8	$GENOMESPATH/Escherichia_coli_UTI89_uid58541/NC_007946	UTI89_C####	5	4,8	Escherichia coli	UTI89	19365	0
+fnod	$GENOMESPATH/Fervidobacterium_nodosum_Rt17_B1_uid58625/NC_009718	Fnod_####	5	4,8	Fervidobacterium nodosum	Rt17-B1	21275	0
+fjoh	$GENOMESPATH/Flavobacterium_johnsoniae_UW101_uid58493/NC_009441	Fjoh_####	5	4,8	Flavobacterium johnsoniae	UW101	20956	0
+fpsy	$GENOMESPATH/Flavobacterium_psychrophilum_JIP02_86_uid61627/NC_009613	FP####	5	4,8	Flavobacterium psychrophilum	JIP02/86	21170	0
+ftuO	$GENOMESPATH/Francisella_tularensis_holarctica_OSU18_uid58687/NC_008369	FTH_####	5	4,8	Francisella tularensis	subsp. holarctica OSU18	19819	1
+ftut	$GENOMESPATH/Francisella_tularensis_WY96_3418_uid58811/NC_009257	FTW_####	5	4,8	Francisella tularensis	subsp. tularensis WY96-3418, complete	20753	0
+faln	$GENOMESPATH/Frankia_alni_ACN14a_uid58695/NC_008278	FRAAL####	5	4,8	Frankia alni	ACN14a	19701	0
+fraC	$GENOMESPATH/Frankia_CcI3_uid58397/NC_007777	Francci3_####	5	4,8	Frankia sp.	CcI3	19194	0
+gkap	$GENOMESPATH/Geobacillus_kaustophilus_HTA426_uid58227/NC_006509	GKP##	5	4,8	Geobacillus kaustophilus	HTA426 plasmid pHTA426	18090	0
+gkau	$GENOMESPATH/Geobacillus_kaustophilus_HTA426_uid58227/NC_006510	GK####	5	4,8	Geobacillus kaustophilus	HTA426	556	0
+gthe	$GENOMESPATH/Geobacillus_thermodenitrificans_NG80_2_uid58829/NC_009328	GTNG_####	5	4,8	Geobacillus thermodenitrificans	NG80-2	20824	0
+gth1	$GENOMESPATH/Geobacillus_thermodenitrificans_NG80_2_uid58829/NC_009329	GTNG_####	5	4,8	Geobacillus thermodenitrificans	NG80-2 plasmid pLW1071, complete	20825	0
+gmep	$GENOMESPATH/Geobacter_metallireducens_GS_15_uid57731/NC_007515	Gmet_A####	5	4,8	Geobacter metallireducens	GS-15 plasmid unnamed	18910	0
+gmet	$GENOMESPATH/Geobacter_metallireducens_GS_15_uid57731/NC_007517	Gmet_####	5	4,8	Geobacter metallireducens	GS-15	18912	0
+gop1	$GENOMESPATH/Gluconobacter_oxydans_621H_uid58239/NC_006672	GOX####	5	4,8	Gluconobacter oxydans	621H plasmid pGOX1	18203	0
+gop2	$GENOMESPATH/Gluconobacter_oxydans_621H_uid58239/NC_006673	GOX####	5	4,8	Gluconobacter oxydans	621H plasmid pGOX2	18204	0
+gop3	$GENOMESPATH/Gluconobacter_oxydans_621H_uid58239/NC_006674	GOX####	5	4,8	Gluconobacter oxydans	621H plasmid pGOX3	18205	0
+gop4	$GENOMESPATH/Gluconobacter_oxydans_621H_uid58239/NC_006675	GOX####	5	4,8	Gluconobacter oxydans	621H plasmid pGOX4	18206	0
+gop5	$GENOMESPATH/Gluconobacter_oxydans_621H_uid58239/NC_006676	GOX####	5	4,8	Gluconobacter oxydans	621H plasmid pGOX5	18207	0
+goxy	$GENOMESPATH/Gluconobacter_oxydans_621H_uid58239/NC_006677	GOX####	5	4,8	Gluconobacter oxydans	621H	612	0
+gfor	$GENOMESPATH/Gramella_forsetii_KT0803_uid58881/NC_008571	GFO_####	5	4,8	Gramella forsetii	KT0803	20062	0
+hduc	$GENOMESPATH/Haemophilus_ducreyi_35000HP_uid57625/NC_002940	HD####	5	4,8	Haemophilus ducreyi	35000HP	309	0
+hin8	$GENOMESPATH/Haemophilus_influenzae_86_028NP_uid58093/NC_007146	NTHI####	5	4,8	Haemophilus influenzae	86-028NP	715	0
+hinP	$GENOMESPATH/Haemophilus_influenzae_PittEE_uid58591/NC_009566	CGSHiEE_0####	5	4,8	Haemophilus influenzae	PittEE	21123	0
+hinG	$GENOMESPATH/Haemophilus_influenzae_PittGG_uid58593/NC_009567	CGSHiGG_#####	5	4,8	Haemophilus influenzae	PittGG	21124	0
+hsop	$GENOMESPATH/Haemophilus_somnus_129PT_uid57929/NC_006298	HS_p##	5	4,8	Haemophilus somnus	129PT plasmid pHS129	17934	0
+hsom	$GENOMESPATH/Haemophilus_somnus_129PT_uid57929/NC_008309	HS_####	5	4,8	Haemophilus somnus	129PT	19732	0
+hche	$GENOMESPATH/Hahella_chejuensis_KCTC_2396_uid58483/NC_007645	HCH_#####	5	4,8	Hahella chejuensis	KCTC 2396	19061	0
+hmp1	$GENOMESPATH/Haloarcula_marismortui_ATCC_43049_uid57719/NC_006389	pNG1###	5	4,8	Haloarcula marismortui	ATCC 43049 plasmid pNG100, complete	18012	0
+hmp2	$GENOMESPATH/Haloarcula_marismortui_ATCC_43049_uid57719/NC_006390	pNG2###	5	4,8	Haloarcula marismortui	ATCC 43049 plasmid pNG200, complete	18013	0
+hmp3	$GENOMESPATH/Haloarcula_marismortui_ATCC_43049_uid57719/NC_006391	pNG3###	5	4,8	Haloarcula marismortui	ATCC 43049 plasmid pNG300, complete	18014	0
+hmp4	$GENOMESPATH/Haloarcula_marismortui_ATCC_43049_uid57719/NC_006392	pNG4###	5	4,8	Haloarcula marismortui	ATCC 43049 plasmid pNG400, complete	18015	0
+hmp5	$GENOMESPATH/Haloarcula_marismortui_ATCC_43049_uid57719/NC_006393	pNG5###	5	4,8	Haloarcula marismortui	ATCC 43049 plasmid pNG500, complete	18016	0
+hmp6	$GENOMESPATH/Haloarcula_marismortui_ATCC_43049_uid57719/NC_006394	pNG6###	5	4,8	Haloarcula marismortui	ATCC 43049 plasmid pNG600, complete	18017	0
+hmp7	$GENOMESPATH/Haloarcula_marismortui_ATCC_43049_uid57719/NC_006395	pNG7###	5	4,8	Haloarcula marismortui	ATCC 43049 plasmid pNG700, complete	18233	0
+hma1	$GENOMESPATH/Haloarcula_marismortui_ATCC_43049_uid57719/NC_006396	rrnAC####	5	4,8	Haloarcula marismortui	ATCC 43049 chromosome I	515	0
+hma2	$GENOMESPATH/Haloarcula_marismortui_ATCC_43049_uid57719/NC_006397	rrnB####	5	4,8	Haloarcula marismortui	ATCC 43049 chromosome II	632	0
+hhal	$GENOMESPATH/Halorhodospira_halophila_SL1_uid58473/NC_008789	Hhal_####	5	4,8	Halorhodospira halophila	SL1	20280	0
+hacS	$GENOMESPATH/Helicobacter_acinonychis_Sheeba_uid58685/NC_008229	Hac_####	5	4,8	Helicobacter acinonychis	str. Sheeba	19651	0
+hacp	$GENOMESPATH/Helicobacter_acinonychis_Sheeba_uid58685/NC_008230	pHac1_#	5	4,8	Helicobacter acinonychis	str. Sheeba plasmid pHac1, complete	19652	0
+hpy2	$GENOMESPATH/Helicobacter_pylori_26695_uid57787/NC_000915	HP####	5	4,8	Helicobacter pylori	26695	128	0
+hpag	$GENOMESPATH/Helicobacter_pylori_HPAG1_uid58517/NC_008086	HPAG1_####	5	4,8	Helicobacter pylori	HPAG1	19507	0
+hpap	$GENOMESPATH/Helicobacter_pylori_HPAG1_uid58517/NC_008087	HPAG1_p###	5	4,8	Helicobacter pylori	HPAG1 plasmid pHPAG1	19508	0
+hpyj	$GENOMESPATH/Helicobacter_pylori_J99_uid57789/NC_000921	jhp####	5	4,8	Helicobacter pylori	J99	139	0
+hars	$GENOMESPATH/Herminiimonas_arsenicoxydans_uid58291/NC_009138	HEAR####	5	4,8	Herminiimonas arsenicoxydans		20634	0
+hnep	$GENOMESPATH/Hyphomonas_neptunium_ATCC_15444_uid58433/NC_008358	HNE_####	5	4,8	Hyphomonas neptunium	ATCC 15444	19808	0
+iloi	$GENOMESPATH/Idiomarina_loihiensis_L2TR_uid58087/NC_006512	IL####	5	4,8	Idiomarina loihiensis	L2TR	559	0
+jan1	$GENOMESPATH/Jannaschia_CCS1_uid58147/NC_007801	Jann_####	5	4,8	Jannaschia sp.	CCS1 plasmid1	19219	0
+jann	$GENOMESPATH/Jannaschia_CCS1_uid58147/NC_007802	Jann_####	5	4,8	Jannaschia sp.	CCS1	19220	0
+jmar	$GENOMESPATH/Janthinobacterium_Marseille_uid58603/NC_009659	mma_####	5	4,8	Janthinobacterium sp.	Marseille	21216	0
+kra2	$GENOMESPATH/Kineococcus_radiotolerans_SRS30216_uid58067/NC_009660	Krad_####	5	4,8	Kineococcus radiotolerans	SRS30216 plasmid pKRAD02, complete	21217	0
+krad	$GENOMESPATH/Kineococcus_radiotolerans_SRS30216_uid58067/NC_009664	Krad_####	5	4,8	Kineococcus radiotolerans	SRS30216	21221	1
+kp78	$GENOMESPATH/Klebsiella_pneumoniae_MGH_78578_uid57619/NC_009648	KPN_#####	5	4,8	Klebsiella pneumoniae	subsp. pneumoniae MGH 78578	21205	0
+kp73	$GENOMESPATH/Klebsiella_pneumoniae_MGH_78578_uid57619/NC_009649	KPN_pKPN3p#####	5	4,8	Klebsiella pneumoniae	subsp. pneumoniae MGH 78578 plasmid pKPN3,	21206	0
+kp74	$GENOMESPATH/Klebsiella_pneumoniae_MGH_78578_uid57619/NC_009650	KPN_pKPN4p#####	5	4,8	Klebsiella pneumoniae	subsp. pneumoniae MGH 78578 plasmid pKPN4,	21207	0
+kp75	$GENOMESPATH/Klebsiella_pneumoniae_MGH_78578_uid57619/NC_009651	KPN_pKPN5p#####	5	4,8	Klebsiella pneumoniae	subsp. pneumoniae MGH 78578 plasmid pKPN5,	21208	0
+kp76	$GENOMESPATH/Klebsiella_pneumoniae_MGH_78578_uid57619/NC_009652	KPN_pKPN6p#####	5	4,8	Klebsiella pneumoniae	subsp. pneumoniae MGH 78578 plasmid pKPN6,	21209	0
+kp77	$GENOMESPATH/Klebsiella_pneumoniae_MGH_78578_uid57619/NC_009653	KPN_pKPN7p#####	5	4,8	Klebsiella pneumoniae	subsp. pneumoniae MGH 78578 plasmid pKPN7,	21210	0
+laci	$GENOMESPATH/Lactobacillus_acidophilus_NCFM_uid57685/NC_006814	LBA####	5	4,8	Lactobacillus acidophilus	NCFM	627	0
+lbre	$GENOMESPATH/Lactobacillus_brevis_ATCC_367_uid57989/NC_008497	LVIS_####	5	4,8	Lactobacillus brevis	ATCC 367	19987	0
+lbr1	$GENOMESPATH/Lactobacillus_brevis_ATCC_367_uid57989/NC_008498	LVIS_A##	5	4,8	Lactobacillus brevis	ATCC 367 plasmid 1	19988	0
+lbr2	$GENOMESPATH/Lactobacillus_brevis_ATCC_367_uid57989/NC_008499	LVIS_B##	5	4,8	Lactobacillus brevis	ATCC 367 plasmid 2	19989	0
+lca1	$GENOMESPATH/Lactobacillus_casei_ATCC_334_uid57985/NC_008502	LSEI_A##	5	4,8	Lactobacillus casei	ATCC 334 plasmid 1	19992	0
+lcas	$GENOMESPATH/Lactobacillus_casei_ATCC_334_uid57985/NC_008526	LSEI_####	5	4,8	Lactobacillus casei	ATCC 334	20016	0
+ldel	$GENOMESPATH/Lactobacillus_delbrueckii_bulgaricus_ATCC_BAA_365_uid57987/NC_008529	LBUL_####	5	4,8	Lactobacillus delbrueckii	subsp. bulgaricus ATCC BAA-365, complete	20019	0
+lgas	$GENOMESPATH/Lactobacillus_gasseri_ATCC_33323_uid57687/NC_008530	LGAS_####	5	4,8	Lactobacillus gasseri	ATCC 33323	20020	0
+ljoh	$GENOMESPATH/Lactobacillus_johnsonii_NCC_533_uid58029/NC_005362	LJ####	5	4,8	Lactobacillus johnsonii	NCC 533	382	0
+lsak	$GENOMESPATH/Lactobacillus_sakei_23K_uid58281/NC_007576	LSA####	5	4,8	Lactobacillus sakei	subsp. sakei 23K	18971	0
+lsap	$GENOMESPATH/Lactobacillus_salivarius_UCC118_uid58233/NC_006529	pSF118-20_##	5	4,8	Lactobacillus salivarius	subsp. salivarius UCC118 plasmid	18106	0
+lsa2	$GENOMESPATH/Lactobacillus_salivarius_UCC118_uid58233/NC_006530	pSF118-44_##	5	4,8	Lactobacillus salivarius	subsp. salivarius UCC118 plasmid	18107	0
+lsal	$GENOMESPATH/Lactobacillus_salivarius_UCC118_uid58233/NC_007929	LSL_####	5	4,8	Lactobacillus salivarius	subsp. salivarius UCC118	19348	0
+lsa3	$GENOMESPATH/Lactobacillus_salivarius_UCC118_uid58233/NC_007930	LSL_####	5	4,8	Lactobacillus salivarius	subsp. salivarius UCC118 plasmid pMP118,	19349	0
+llcM	$GENOMESPATH/Lactococcus_lactis_cremoris_MG1363_uid58837/NC_009004	llmg_####	5	4,8	Lactococcus lactis	subsp. cremoris MG1363	20494	0
+llc1	$GENOMESPATH/Lactococcus_lactis_cremoris_SK11_uid57983/NC_008503	LACR_A##	5	4,8	Lactococcus lactis	subsp. cremoris SK11 plasmid 1, complete	19993	0
+llc2	$GENOMESPATH/Lactococcus_lactis_cremoris_SK11_uid57983/NC_008504	LACR_B#	5	4,8	Lactococcus lactis	subsp. cremoris SK11 plasmid 2, complete	19994	0
+llc3	$GENOMESPATH/Lactococcus_lactis_cremoris_SK11_uid57983/NC_008505	LACR_C##	5	4,8	Lactococcus lactis	subsp. cremoris SK11 plasmid 3, complete	19995	0
+llc4	$GENOMESPATH/Lactococcus_lactis_cremoris_SK11_uid57983/NC_008506	LACR_D##	5	4,8	Lactococcus lactis	subsp. cremoris SK11 plasmid 4, complete	19996	0
+llc5	$GENOMESPATH/Lactococcus_lactis_cremoris_SK11_uid57983/NC_008507	LACR_E#	5	4,8	Lactococcus lactis	subsp. cremoris SK11 plasmid 5, complete	19997	0
+llcr	$GENOMESPATH/Lactococcus_lactis_cremoris_SK11_uid57983/NC_008527	LACR_####	5	4,8	Lactococcus lactis	subsp. cremoris SK11	20017	0
+lint	$GENOMESPATH/Lawsonia_intracellularis_PHE_MN1_00_uid61575/NC_008011	LI####	5	4,8	Lawsonia intracellularis	PHE/MN1-00	19430	0
+lip1	$GENOMESPATH/Lawsonia_intracellularis_PHE_MN1_00_uid61575/NC_008012	LIA###	5	4,8	Lawsonia intracellularis	PHE/MN1-00 plasmid 1	19431	0
+lip2	$GENOMESPATH/Lawsonia_intracellularis_PHE_MN1_00_uid61575/NC_008013	LIB###	5	4,8	Lawsonia intracellularis	PHE/MN1-00 plasmid 2	19432	0
+lip3	$GENOMESPATH/Lawsonia_intracellularis_PHE_MN1_00_uid61575/NC_008014	LIC###	5	4,8	Lawsonia intracellularis	PHE/MN1-00 plasmid 3	19433	0
+lpne	$GENOMESPATH/Legionella_pneumophila_Corby_uid58733/NC_009494	LPC_####	5	4,8	Legionella pneumophila	str. Corby	21010	0
+lplp	$GENOMESPATH/Legionella_pneumophila_Lens_uid58209/NC_006366	plpl####	5	4,8	Legionella pneumophila	str. Lens plasmid pLPL	17993	0
+lple	$GENOMESPATH/Legionella_pneumophila_Lens_uid58209/NC_006369	lpl####	5	4,8	Legionella pneumophila	str. Lens	511	0
+lppp	$GENOMESPATH/Legionella_pneumophila_Paris_uid58211/NC_006365	plpp####	5	4,8	Legionella pneumophila	str. Paris plasmid pLPP	17992	0
+lppa	$GENOMESPATH/Legionella_pneumophila_Paris_uid58211/NC_006368	lpp####	5	4,8	Legionella pneumophila	str. Paris	510	0
+lpph	$GENOMESPATH/Legionella_pneumophila_Philadelphia_1_uid57609/NC_002942	lpg####	5	4,8	Legionella pneumophila	subsp. pneumophila str. Philadelphia 1,	504	0
+lbo1	$GENOMESPATH/Leptospira_borgpetersenii_serovar_Hardjo_bovis_JB197_uid58509/NC_008510	LBJ_####	5	4,8	Leptospira borgpetersenii	serovar Hardjo-bovis JB197 chromosome 1,	20000	0
+lbo2	$GENOMESPATH/Leptospira_borgpetersenii_serovar_Hardjo_bovis_JB197_uid58509/NC_008511	LBJ_####	5	4,8	Leptospira borgpetersenii	serovar Hardjo-bovis JB197 chromosome 2,	20001	0
+lbH1	$GENOMESPATH/Leptospira_borgpetersenii_serovar_Hardjo_bovis_L550_uid58507/NC_008508	LBL_####	5	4,8	Leptospira borgpetersenii	serovar Hardjo-bovis L550 chromosome 1,	19998	0
+lbH2	$GENOMESPATH/Leptospira_borgpetersenii_serovar_Hardjo_bovis_L550_uid58507/NC_008509	LBL_####	5	4,8	Leptospira borgpetersenii	serovar Hardjo-bovis L550 chromosome 2,	19999	0
+lmep	$GENOMESPATH/Leuconostoc_mesenteroides_ATCC_8293_uid57919/NC_008496	LEUM_A##	5	4,8	Leuconostoc mesenteroides	subsp. mesenteroides ATCC 8293 plasmid	19986	0
+lmes	$GENOMESPATH/Leuconostoc_mesenteroides_ATCC_8293_uid57919/NC_008531	LEUM_####	5	4,8	Leuconostoc mesenteroides	subsp. mesenteroides ATCC 8293, complete	20021	0
+lwel	$GENOMESPATH/Listeria_welshimeri_serovar_6b_SLCC5334_uid61605/NC_008555	lwe####	5	4,8	Listeria welshimeri	serovar 6b str. SLCC5334	20045	0
+magn	$GENOMESPATH/Magnetococcus_MC_1_uid57833/NC_008576	Mmc1_####	5	4,8	Magnetococcus sp.	MC-1	20067	0
+mmag	$GENOMESPATH/Magnetospirillum_magneticum_AMB_1_uid58527/NC_007626	amb####	5	4,8	Magnetospirillum magneticum	AMB-1	19021	0
+msuc	$GENOMESPATH/Mannheimia_succiniciproducens_MBEL55E_uid58197/NC_006300	MS####	5	4,8	Mannheimia succiniciproducens	MBEL55E	502	0
+mmaM	$GENOMESPATH/Maricaulis_maris_MCS10_uid58689/NC_008347	Mmar10_####	5	4,8	Maricaulis maris	MCS10	19797	0
+maq1	$GENOMESPATH/Marinobacter_aquaeolei_VT8_uid59419/NC_008738	Maqu_####	5	4,8	Marinobacter aquaeolei	VT8 plasmid pMAQU01	20229	0
+maq2	$GENOMESPATH/Marinobacter_aquaeolei_VT8_uid59419/NC_008739	Maqu_####	5	4,8	Marinobacter aquaeolei	VT8 plasmid pMAQU02	20230	0
+maqu	$GENOMESPATH/Marinobacter_aquaeolei_VT8_uid59419/NC_008740	Maqu_####	5	4,8	Marinobacter aquaeolei	VT8	20231	0
+mari	$GENOMESPATH/Marinomonas_MWYL1_uid58715/NC_009654	Mmwyl1_####	5	4,8	Marinomonas sp.	MWYL1	21211	0
+mflo	$GENOMESPATH/Mesoplasma_florum_L1_uid58055/NC_006055	Mfl###	5	4,8	Mesoplasma florum	L1	439	0
+msed	$GENOMESPATH/Metallosphaera_sedula_DSM_5348_uid58717/NC_009440	Msed_####	5	4,8	Metallosphaera sedula	DSM 5348	20955	0
+msmi	$GENOMESPATH/Methanobrevibacter_smithii_ATCC_35061_uid58827/NC_009515	Msm_####	5	4,8	Methanobrevibacter smithii	ATCC 35061	21071	0
+mbur	$GENOMESPATH/Methanococcoides_burtonii_DSM_6242_uid58023/NC_007955	Mbur_####	5	4,8	Methanococcoides burtonii	DSM 6242	19374	0
+maeo	$GENOMESPATH/Methanococcus_aeolicus_Nankai_3_uid58823/NC_009635	Maeo_####	5	4,8	Methanococcus aeolicus	Nankai-3	21192	0
+mmC5	$GENOMESPATH/Methanococcus_maripaludis_C5_uid58741/NC_009135	MmarC5_####	5	4,8	Methanococcus maripaludis	C5	20631	0
+mmCp	$GENOMESPATH/Methanococcus_maripaludis_C5_uid58741/NC_009136	MmarC5_####	5	4,8	Methanococcus maripaludis	C5 plasmid pMMC501	20632	0
+mmC7	$GENOMESPATH/Methanococcus_maripaludis_C7_uid58847/NC_009637	MmarC7_####	5	4,8	Methanococcus maripaludis	C7	21194	0
+mmar	$GENOMESPATH/Methanococcus_maripaludis_S2_uid58035/NC_005791	MMP####	5	4,8	Methanococcus maripaludis	S2	394	0
+mvan	$GENOMESPATH/Methanococcus_vannielii_SB_uid58767/NC_009634	Mevan_####	5	4,8	Methanococcus vannielii	SB	21191	0
+mlab	$GENOMESPATH/Methanocorpusculum_labreanum_Z_uid58785/NC_008942	Mlab_####	5	4,8	Methanocorpusculum labreanum	Z	20434	0
+mmJR	$GENOMESPATH/Methanoculleus_marisnigri_JR1_uid58561/NC_009051	Memar_####	5	4,8	Methanoculleus marisnigri	JR1	20541	0
+mthP	$GENOMESPATH/Methanosaeta_thermophila_PT_uid58469/NC_008553	Mthe_####	5	4,8	Methanosaeta thermophila	PT	20043	0
+mhun	$GENOMESPATH/Methanospirillum_hungatei_JF_1_uid58181/NC_007796	Mhun_####	5	4,8	Methanospirillum hungatei	JF-1	19214	0
+mpet	$GENOMESPATH/Methylibium_petroleiphilum_PM1_uid58085/NC_008825	Mpe_A####	5	4,8	Methylibium petroleiphilum	PM1	20316	0
+mpe1	$GENOMESPATH/Methylibium_petroleiphilum_PM1_uid58085/NC_008826	Mpe_B####	5	4,8	Methylibium petroleiphilum	PM1 plasmid RPME01	20317	0
+mfla	$GENOMESPATH/Methylobacillus_flagellatus_KT_uid58049/NC_007947	Mfla_####	5	4,8	Methylobacillus flagellatus	KT	19366	0
+mcap	$GENOMESPATH/Methylococcus_capsulatus_Bath_uid57607/NC_002977	MCA####	5	4,8	Methylococcus capsulatus	str. Bath	507	0
+moth	$GENOMESPATH/Moorella_thermoacetica_ATCC_39073_uid58051/NC_007644	Moth_####	5	4,8	Moorella thermoacetica	ATCC 39073	19060	0
+mav1	$GENOMESPATH/Mycobacterium_avium_104_uid57693/NC_008595	MAV_####	5	4,8	Mycobacterium avium	104	20086	0
+mboP	$GENOMESPATH/Mycobacterium_bovis_BCG_Pasteur_1173P2_uid58781/NC_008769	BCG_####	5	4,8	Mycobacterium bovis	BCG str. Pasteur 1173P2	20260	0
+mgli	$GENOMESPATH/Mycobacterium_gilvum_PYR_GCK_uid59421/NC_009338	Mflv_####	5	4,8	Mycobacterium gilvum	PYR-GCK	20853	0
+mgi1	$GENOMESPATH/Mycobacterium_gilvum_PYR_GCK_uid59421/NC_009339	Mflv_####	5	4,8	Mycobacterium gilvum	PYR-GCK plasmid pMFLV01	20854	1
+mgi2	$GENOMESPATH/Mycobacterium_gilvum_PYR_GCK_uid59421/NC_009340	Mflv_####	5	4,8	Mycobacterium gilvum	PYR-GCK plasmid pMFLV02	20855	0
+mgi3	$GENOMESPATH/Mycobacterium_gilvum_PYR_GCK_uid59421/NC_009341	Mflv_####	5	4,8	Mycobacterium gilvum	PYR-GCK plasmid pMFLV03	20856	0
+mJLS	$GENOMESPATH/Mycobacterium_JLS_uid58489/NC_009077	Mjls_####	5	4,8	Mycobacterium sp.	JLS	20571	0
+mKM1	$GENOMESPATH/Mycobacterium_KMS_uid58491/NC_008703	Mkms_####	5	4,8	Mycobacterium sp.	KMS plasmid pMKMS01	20194	0
+mKM2	$GENOMESPATH/Mycobacterium_KMS_uid58491/NC_008704	Mkms_####	5	4,8	Mycobacterium sp.	KMS plasmid pMKMS02	20195	0
+mKMS	$GENOMESPATH/Mycobacterium_KMS_uid58491/NC_008705	Mkms_####	5	4,8	Mycobacterium sp.	KMS	20196	0
+mMCS	$GENOMESPATH/Mycobacterium_MCS_uid58465/NC_008146	Mmcs_####	5	4,8	Mycobacterium sp.	MCS	19568	0
+mMC1	$GENOMESPATH/Mycobacterium_MCS_uid58465/NC_008147	Mmcs_####	5	4,8	Mycobacterium sp.	MCS plasmid1	19569	1
+msme	$GENOMESPATH/Mycobacterium_smegmatis_MC2_155_uid57701/NC_008596	MSMEG_####	5	4,8	Mycobacterium smegmatis	str. MC2 155	20087	0
+mtbc	$GENOMESPATH/Mycobacterium_tuberculosis_CDC1551_uid57775/NC_002755	MT####	5	4,8	Mycobacterium tuberculosis	CDC1551	181	0
+mtuF	$GENOMESPATH/Mycobacterium_tuberculosis_F11_uid58417/NC_009565	TBFG_1####	5	4,8	Mycobacterium tuberculosis	F11	21122	0
+mtuH	$GENOMESPATH/Mycobacterium_tuberculosis_H37Ra_uid58853/NC_009525	MRA_####	5	4,8	Mycobacterium tuberculosis	H37Ra	21081	0
+mtbH	$GENOMESPATH/Mycobacterium_tuberculosis_H37Rv_uid57777/NC_000962	Rv####	5	4,8	Mycobacterium tuberculosis	H37Rv	135	0
+mulc	$GENOMESPATH/Mycobacterium_ulcerans_Agy99_uid62939/NC_008611	MUL_####	5	4,8	Mycobacterium ulcerans	Agy99	20102	0
+mvaP	$GENOMESPATH/Mycobacterium_vanbaalenii_PYR_1_uid58463/NC_008726	Mvan_####	5	4,8	Mycobacterium vanbaalenii	PYR-1	20217	0
+maga	$GENOMESPATH/Mycoplasma_agalactiae_PG2_uid61619/NC_009497	MAG_###	5	4,8	Mycoplasma agalactiae	PG2	21013	0
+mca2	$GENOMESPATH/Mycoplasma_capricolum_ATCC_27343_uid58525/NC_007633	MCAP_####	5	4,8	Mycoplasma capricolum	subsp. capricolum ATCC 27343, complete	19028	0
+mhyo	$GENOMESPATH/Mycoplasma_hyopneumoniae_232_uid58205/NC_006360	mhp###	5	4,8	Mycoplasma hyopneumoniae	232	508	0
+mhy7	$GENOMESPATH/Mycoplasma_hyopneumoniae_7448_uid58039/NC_007332	MHP7448_####	5	4,8	Mycoplasma hyopneumoniae	7448	18652	0
+mhyJ	$GENOMESPATH/Mycoplasma_hyopneumoniae_J_uid58059/NC_007295	MHJ_####	5	4,8	Mycoplasma hyopneumoniae	J	18618	0
+mmob	$GENOMESPATH/Mycoplasma_mobile_163K_uid58077/NC_006908	MMOB####	5	4,8	Mycoplasma mobile	163K	402	0
+msyn	$GENOMESPATH/Mycoplasma_synoviae_53_uid58061/NC_007294	MS53_####	5	4,8	Mycoplasma synoviae	53	18617	0
+mxan	$GENOMESPATH/Myxococcus_xanthus_DK_1622_uid58003/NC_008095	MXAN_####	5	4,8	Myxococcus xanthus	DK 1622	19516	0
+ngon	$GENOMESPATH/Neisseria_gonorrhoeae_FA_1090_uid57611/NC_002946	NGO####	5	4,8	Neisseria gonorrhoeae	FA 1090	635	0
+nmeF	$GENOMESPATH/Neisseria_meningitidis_FAM18_uid57825/NC_008767	NMC####	5	4,8	Neisseria meningitidis	FAM18	20258	0
+nmeM	$GENOMESPATH/Neisseria_meningitidis_MC58_uid57817/NC_003112	NMB####	5	4,8	Neisseria meningitidis	MC58	155	0
+nmeZ	$GENOMESPATH/Neisseria_meningitidis_Z2491_uid57819/NC_003116	NMA####	5	4,8	Neisseria meningitidis	Z2491	156	0
+nseM	$GENOMESPATH/Neorickettsia_sennetsu_Miyayama_uid57965/NC_007798	NSE_####	5	4,8	Neorickettsia sennetsu	str. Miyayama	19216	0
+nitS	$GENOMESPATH/Nitratiruptor_SB155_2_uid58861/NC_009662	NIS_####	5	4,8	Nitratiruptor sp.	SB155-2	21219	0
+nha1	$GENOMESPATH/Nitrobacter_hamburgensis_X14_uid58293/NC_007959	Nham_####	5	4,8	Nitrobacter hamburgensis	X14 plasmid 1	19378	0
+nha2	$GENOMESPATH/Nitrobacter_hamburgensis_X14_uid58293/NC_007960	Nham_####	5	4,8	Nitrobacter hamburgensis	X14 plasmid 2	19379	0
+nha3	$GENOMESPATH/Nitrobacter_hamburgensis_X14_uid58293/NC_007961	Nham_####	5	4,8	Nitrobacter hamburgensis	X14 plasmid 3	19380	0
+nham	$GENOMESPATH/Nitrobacter_hamburgensis_X14_uid58293/NC_007964	Nham_####	5	4,8	Nitrobacter hamburgensis	X14	19383	0
+nwin	$GENOMESPATH/Nitrobacter_winogradskyi_Nb_255_uid58295/NC_007406	Nwi_####	5	4,8	Nitrobacter winogradskyi	Nb-255	18752	0
+nocA	$GENOMESPATH/Nitrosococcus_oceani_ATCC_19707_uid58403/NC_007483	Noc_A####	5	4,8	Nitrosococcus oceani	ATCC 19707 plasmid A	18833	0
+noce	$GENOMESPATH/Nitrosococcus_oceani_ATCC_19707_uid58403/NC_007484	Noc_####	5	4,8	Nitrosococcus oceani	ATCC 19707	18834	0
+nmul	$GENOMESPATH/Nitrosospira_multiformis_ATCC_25196_uid58361/NC_007614	Nmul_A####	5	4,8	Nitrosospira multiformis	ATCC 25196 chromosome 1, complete	19009	0
+nmu1	$GENOMESPATH/Nitrosospira_multiformis_ATCC_25196_uid58361/NC_007615	Nmul_B####	5	4,8	Nitrosospira multiformis	ATCC 25196 plasmid 1	19010	0
+nmu2	$GENOMESPATH/Nitrosospira_multiformis_ATCC_25196_uid58361/NC_007616	NmulC_####	5	4,8	Nitrosospira multiformis	ATCC 25196 plasmid 2	19011	0
+nmu3	$GENOMESPATH/Nitrosospira_multiformis_ATCC_25196_uid58361/NC_007617	Nmul_D####	5	4,8	Nitrosospira multiformis	ATCC 25196 plasmid 3	19012	0
+nfar	$GENOMESPATH/Nocardia_farcinica_IFM_10152_uid58203/NC_006361	nfa#####	5	4,8	Nocardia farcinica	IFM 10152	509	0
+nfa1	$GENOMESPATH/Nocardia_farcinica_IFM_10152_uid58203/NC_006362	pnf1####	5	4,8	Nocardia farcinica	IFM 10152 plasmid pNF1	17989	0
+nfa2	$GENOMESPATH/Nocardia_farcinica_IFM_10152_uid58203/NC_006363	pnf2###	5	4,8	Nocardia farcinica	IFM 10152 plasmid pNF2	17990	0
+noc1	$GENOMESPATH/Nocardioides_JS614_uid58149/NC_008697	Noca_####	5	4,8	Nocardioides sp.	JS614 plasmid pNOCA01	20188	0
+nocJ	$GENOMESPATH/Nocardioides_JS614_uid58149/NC_008699	Noca_####	5	4,8	Nocardioides sp.	JS614	20190	0
+naro	$GENOMESPATH/Novosphingobium_aromaticivorans_DSM_12444_uid57747/NC_007794	Saro_####	5	4,8	Novosphingobium aromaticivorans	DSM 12444	19212	0
+nar1	$GENOMESPATH/Novosphingobium_aromaticivorans_DSM_12444_uid57747/NC_009426	Saro_####	5	4,8	Novosphingobium aromaticivorans	DSM 12444 plasmid pNL1, complete	20941	0
+nar2	$GENOMESPATH/Novosphingobium_aromaticivorans_DSM_12444_uid57747/NC_009427	Saro_####	5	4,8	Novosphingobium aromaticivorans	DSM 12444 plasmid pNL2, complete	20942	0
+oan1	$GENOMESPATH/Ochrobactrum_anthropi_ATCC_49188_uid58921/NC_009667	Oant_####	5	4,8	Ochrobactrum anthropi	ATCC 49188 chromosome 1	21224	0
+oan2	$GENOMESPATH/Ochrobactrum_anthropi_ATCC_49188_uid58921/NC_009668	Oant_####	5	4,8	Ochrobactrum anthropi	ATCC 49188 chromosome 2	21225	0
+oanp	$GENOMESPATH/Ochrobactrum_anthropi_ATCC_49188_uid58921/NC_009669	Oant_####	5	4,8	Ochrobactrum anthropi	ATCC 49188 plasmid pOANT01, complete	21226	0
+oap2	$GENOMESPATH/Ochrobactrum_anthropi_ATCC_49188_uid58921/NC_009670	Oant_####	5	4,8	Ochrobactrum anthropi	ATCC 49188 plasmid pOANT02, complete	21227	0
+oap3	$GENOMESPATH/Ochrobactrum_anthropi_ATCC_49188_uid58921/NC_009671	Oant_####	5	4,8	Ochrobactrum anthropi	ATCC 49188 plasmid pOANT03, complete	21228	0
+oap4	$GENOMESPATH/Ochrobactrum_anthropi_ATCC_49188_uid58921/NC_009672	Oant_####	5	4,8	Ochrobactrum anthropi	ATCC 49188 plasmid pOANT04, complete	21229	0
+ooen	$GENOMESPATH/Oenococcus_oeni_PSU_1_uid59417/NC_008528	OEOE_####	5	4,8	Oenococcus oeni	PSU-1	20018	0
+otsu	$GENOMESPATH/Orientia_tsutsugamushi_Boryong_uid61621/NC_009488	OTBS_####	5	4,8	Orientia tsutsugamushi	Boryong	21004	1
+pdis	$GENOMESPATH/Parabacteroides_distasonis_ATCC_8503_uid58301/NC_009615	BDI_####	5	4,8	Parabacteroides distasonis	ATCC 8503	21172	0
+pde1	$GENOMESPATH/Paracoccus_denitrificans_PD1222_uid58187/NC_008686	Pden_####	5	4,8	Paracoccus denitrificans	PD1222 chromosome 1	20177	0
+pde2	$GENOMESPATH/Paracoccus_denitrificans_PD1222_uid58187/NC_008687	Pden_####	5	4,8	Paracoccus denitrificans	PD1222 chromosome 2	20178	0
+pdp1	$GENOMESPATH/Paracoccus_denitrificans_PD1222_uid58187/NC_008688	Pden_####	5	4,8	Paracoccus denitrificans	PD1222 plasmid 1	20179	0
+plav	$GENOMESPATH/Parvibaculum_lavamentivorans_DS_1_uid58739/NC_009719	Plav_####	5	4,8	Parvibaculum lavamentivorans	DS-1	21276	0
+ppen	$GENOMESPATH/Pediococcus_pentosaceus_ATCC_25745_uid57981/NC_008525	PEPE_####	5	4,8	Pediococcus pentosaceus	ATCC 25745	20015	0
+ppp1	$GENOMESPATH/Pelobacter_propionicus_DSM_2379_uid58255/NC_008607	Ppro_####	5	4,8	Pelobacter propionicus	DSM 2379 plasmid pPRO1	20098	0
+ppp2	$GENOMESPATH/Pelobacter_propionicus_DSM_2379_uid58255/NC_008608	Ppro_####	5	4,8	Pelobacter propionicus	DSM 2379 plasmid pPRO2	20099	0
+ppro	$GENOMESPATH/Pelobacter_propionicus_DSM_2379_uid58255/NC_008609	Ppro_####	5	4,8	Pelobacter propionicus	DSM 2379	20100	0
+pthe	$GENOMESPATH/Pelotomaculum_thermopropionicum_SI_uid58877/NC_009454	PTH_####	5	4,8	Pelotomaculum thermopropionicum	SI	20969	0
+pprp	$GENOMESPATH/Photobacterium_profundum_SS9_uid62923/NC_005871	PBPRC####	5	4,8	Photobacterium profundum	SS9 plasmid pPBPR1	17673	0
+ppr1	$GENOMESPATH/Photobacterium_profundum_SS9_uid62923/NC_006370	PBPRA####	5	4,8	Photobacterium profundum	SS9 chromosome 1	512	0
+ppr2	$GENOMESPATH/Photobacterium_profundum_SS9_uid62923/NC_006371	PBPRB####	5	4,8	Photobacterium profundum	SS9 chromosome 2	513	0
+ptor	$GENOMESPATH/Picrophilus_torridus_DSM_9790_uid58041/NC_005877	PTO####	5	4,8	Picrophilus torridus	DSM 9790	404	0
+pola	$GENOMESPATH/Polaromonas_JS666_uid58207/NC_007948	Bpro_####	5	4,8	Polaromonas sp.	JS666	19367	0
+pol1	$GENOMESPATH/Polaromonas_JS666_uid58207/NC_007949	Bpro_####	5	4,8	Polaromonas sp.	JS666 plasmid 1	19368	0
+pol2	$GENOMESPATH/Polaromonas_JS666_uid58207/NC_007950	Bpro_####	5	4,8	Polaromonas sp.	JS666 plasmid 2	19369	0
+pnp1	$GENOMESPATH/Polaromonas_naphthalenivorans_CJ2_uid58273/NC_008757	Pnap_####	5	4,8	Polaromonas naphthalenivorans	CJ2 plasmid pPNAP01, complete	20248	0
+pnp2	$GENOMESPATH/Polaromonas_naphthalenivorans_CJ2_uid58273/NC_008758	Pnap_####	5	4,8	Polaromonas naphthalenivorans	CJ2 plasmid pPNAP02, complete	20249	0
+pnp3	$GENOMESPATH/Polaromonas_naphthalenivorans_CJ2_uid58273/NC_008759	Pnap_####	5	4,8	Polaromonas naphthalenivorans	CJ2 plasmid pPNAP03, complete	20250	0
+pnp4	$GENOMESPATH/Polaromonas_naphthalenivorans_CJ2_uid58273/NC_008760	Pnap_####	5	4,8	Polaromonas naphthalenivorans	CJ2 plasmid pPNAP04, complete	20251	0
+pnp5	$GENOMESPATH/Polaromonas_naphthalenivorans_CJ2_uid58273/NC_008761	Pnap_####	5	4,8	Polaromonas naphthalenivorans	CJ2 plasmid pPNAP05, complete	20252	0
+pnp6	$GENOMESPATH/Polaromonas_naphthalenivorans_CJ2_uid58273/NC_008762	Pnap_####	5	4,8	Polaromonas naphthalenivorans	CJ2 plasmid pPNAP06, complete	20253	0
+pnp7	$GENOMESPATH/Polaromonas_naphthalenivorans_CJ2_uid58273/NC_008763	Pnap_####	5	4,8	Polaromonas naphthalenivorans	CJ2 plasmid pPNAP07, complete	20254	0
+pnp8	$GENOMESPATH/Polaromonas_naphthalenivorans_CJ2_uid58273/NC_008764	Pnap_####	5	4,8	Polaromonas naphthalenivorans	CJ2 plasmid pPNAP08, complete	20255	0
+pnap	$GENOMESPATH/Polaromonas_naphthalenivorans_CJ2_uid58273/NC_008781	Pnap_####	5	4,8	Polaromonas naphthalenivorans	CJ2	20272	0
+pgin	$GENOMESPATH/Porphyromonas_gingivalis_W83_uid57641/NC_002950	PG####	5	4,8	Porphyromonas gingivalis	W83	322	0
+pmaA	$GENOMESPATH/Prochlorococcus_marinus_AS9601_uid58307/NC_008816	A9601_#####	5	4,8	Prochlorococcus marinus	str. AS9601	20307	0
+pmar	$GENOMESPATH/Prochlorococcus_marinus_CCMP1375_uid57995/NC_005042	Pro####	5	4,8	Prochlorococcus marinus	subsp. marinus str. CCMP1375, complete	310	0
+pmaM	$GENOMESPATH/Prochlorococcus_marinus_MIT_9301_uid58437/NC_009091	P9301_#####	5	4,8	Prochlorococcus marinus	str. MIT 9301	20587	0
+pma3	$GENOMESPATH/Prochlorococcus_marinus_MIT_9303_uid58305/NC_008820	P9303_#####	5	4,8	Prochlorococcus marinus	str. MIT 9303	20311	0
+pm93	$GENOMESPATH/Prochlorococcus_marinus_MIT_9312_uid58357/NC_007577	PMT9312_####	5	4,8	Prochlorococcus marinus	str. MIT 9312	18972	0
+pMIT	$GENOMESPATH/Prochlorococcus_marinus_MIT_9313_uid57773/NC_005071	PMT####	5	4,8	Prochlorococcus marinus	str. MIT 9313	319	0
+pma5	$GENOMESPATH/Prochlorococcus_marinus_MIT_9515_uid58313/NC_008817	P9515_####	5	4,8	Prochlorococcus marinus	str. MIT 9515	20308	0
+pmaN	$GENOMESPATH/Prochlorococcus_marinus_NATL1A_uid58423/NC_008819	NATL1_#####	5	4,8	Prochlorococcus marinus	str. NATL1A	20310	0
+pmNA	$GENOMESPATH/Prochlorococcus_marinus_NATL2A_uid58359/NC_007335	PMN2A_####	5	4,8	Prochlorococcus marinus	str. NATL2A	18655	0
+pacn	$GENOMESPATH/Propionibacterium_acnes_KPA171202_uid58101/NC_006085	PPA####	5	4,8	Propionibacterium acnes	KPA171202	447	0
+patl	$GENOMESPATH/Pseudoalteromonas_atlantica_T6c_uid58283/NC_008228	Patl_####	5	4,8	Pseudoalteromonas atlantica	T6c	19650	0
+pha1	$GENOMESPATH/Pseudoalteromonas_haloplanktis_TAC125_uid58431/NC_007481	PSHAa####	5	4,8	Pseudoalteromonas haloplanktis	TAC125 chromosome I, complete	18831	0
+pha2	$GENOMESPATH/Pseudoalteromonas_haloplanktis_TAC125_uid58431/NC_007482	PSHAb####	5	4,8	Pseudoalteromonas haloplanktis	TAC125 chromosome II, complete	18832	0
+paeP	$GENOMESPATH/Pseudomonas_aeruginosa_PA7_uid58627/NC_009656	PSPA7_####	5	4,8	Pseudomonas aeruginosa	PA7	21213	0
+paeU	$GENOMESPATH/Pseudomonas_aeruginosa_UCBPP_PA14_uid57977/NC_008463	PA14_#####	5	4,8	Pseudomonas aeruginosa	UCBPP-PA14	19928	0
+pent	$GENOMESPATH/Pseudomonas_entomophila_L48_uid58639/NC_008027	PSEEN####	5	4,8	Pseudomonas entomophila	L48	19446	0
+pflu	$GENOMESPATH/Pseudomonas_fluorescens_Pf_5_uid57937/NC_004129	PFL_####	5	4,8	Pseudomonas fluorescens	Pf-5	18509	0
+pmen	$GENOMESPATH/Pseudomonas_mendocina_ymp_uid58723/NC_009439	Pmen_####	5	4,8	Pseudomonas mendocina	ymp	20954	0
+ppuF	$GENOMESPATH/Pseudomonas_putida_F1_uid58355/NC_009512	Pput_####	5	4,8	Pseudomonas putida	F1	21068	0
+pput	$GENOMESPATH/Pseudomonas_putida_KT2440_uid57843/NC_002947	PP_####	5	4,8	Pseudomonas putida	KT2440	266	0
+pstu	$GENOMESPATH/Pseudomonas_stutzeri_A1501_uid58641/NC_009434	PST_####	5	4,8	Pseudomonas stutzeri	A1501	20949	0
+psph	$GENOMESPATH/Pseudomonas_syringae_phaseolicola_1448A_uid58099/NC_005773	PSPPH_####	5	4,8	Pseudomonas syringae	pv. phaseolicola 1448A	18598	0
+pspl	$GENOMESPATH/Pseudomonas_syringae_phaseolicola_1448A_uid58099/NC_007274	PSPPH_A####	5	4,8	Pseudomonas syringae	pv. phaseolicola 1448A large plasmid, complete	18596	0
+psps	$GENOMESPATH/Pseudomonas_syringae_phaseolicola_1448A_uid58099/NC_007275	PSPPH_B####	5	4,8	Pseudomonas syringae	pv. phaseolicola 1448A small plasmid, complete	18597	0
+psyr	$GENOMESPATH/Pseudomonas_syringae_tomato_DC3000_uid57967/NC_004578	PSPTO_####	5	4,8	Pseudomonas syringae	pv. tomato str. DC3000	279	0
+pspB	$GENOMESPATH/Pseudomonas_syringae_tomato_DC3000_uid57967/NC_004632	PSPTO_B####	5	4,8	Pseudomonas syringae	pv. tomato str. DC3000 plasmid pDC3000B,	16932	0
+pspA	$GENOMESPATH/Pseudomonas_syringae_tomato_DC3000_uid57967/NC_004633	PSPTOA####	5	4,8	Pseudomonas syringae	pv. tomato str. DC3000 plasmid pDC3000A,	16933	0
+pcp1	$GENOMESPATH/Psychrobacter_cryohalolentis_K5_uid58373/NC_007968	Pcryo_####	5	4,8	Psychrobacter cryohalolentis	K5 plasmid 1	19387	0
+pcry	$GENOMESPATH/Psychrobacter_cryohalolentis_K5_uid58373/NC_007969	Pcryo_####	5	4,8	Psychrobacter cryohalolentis	K5	19388	0
+psp1	$GENOMESPATH/Psychrobacter_PRwf_1_uid58459/NC_009516	PsycPRwf_####	5	4,8	Psychrobacter sp.	PRwf-1 plasmid pRWF101	21072	0
+psp2	$GENOMESPATH/Psychrobacter_PRwf_1_uid58459/NC_009517	PsycPRwf_####	5	4,8	Psychrobacter sp.	PRwf-1 plasmid pRWF102	21073	0
+psyc	$GENOMESPATH/Psychrobacter_PRwf_1_uid58459/NC_009524	PsycPRwf_####	5	4,8	Psychrobacter sp.	PRwf-1	21080	0
+ping	$GENOMESPATH/Psychromonas_ingrahamii_37_uid58521/NC_008709	Ping_####	5	4,8	Psychromonas ingrahamii	37	20200	0
+pars	$GENOMESPATH/Pyrobaculum_arsenaticum_DSM_13514_uid58409/NC_009376	Pars_####	5	4,8	Pyrobaculum arsenaticum	DSM 13514	20891	0
+pcal	$GENOMESPATH/Pyrobaculum_calidifontis_JCM_11548_uid58787/NC_009073	Pcal_####	5	4,8	Pyrobaculum calidifontis	JCM 11548	20565	0
+pisl	$GENOMESPATH/Pyrobaculum_islandicum_DSM_4184_uid58635/NC_008701	Pisl_####	5	4,8	Pyrobaculum islandicum	DSM 4184	20192	0
+reH1	$GENOMESPATH/Ralstonia_eutropha_H16_uid62925/NC_008313	H16_A####	5	4,8	Ralstonia eutropha	H16 chromosome 1	19736	0
+reH2	$GENOMESPATH/Ralstonia_eutropha_H16_uid62925/NC_008314	H16_B####	5	4,8	Ralstonia eutropha	H16 chromosome 2	19737	0
+reJm	$GENOMESPATH/Ralstonia_eutropha_JMP134_uid58047/NC_007336	Reut_C####	5	4,8	Ralstonia eutropha	JMP134 megaplasmid	18656	0
+reJp	$GENOMESPATH/Ralstonia_eutropha_JMP134_uid58047/NC_007337	Reut_D####	5	4,8	Ralstonia eutropha	JMP134 plasmid 1	18657	0
+reJ1	$GENOMESPATH/Ralstonia_eutropha_JMP134_uid58047/NC_007347	Reut_A####	5	4,8	Ralstonia eutropha	JMP134 chromosome 1	18667	0
+reJ2	$GENOMESPATH/Ralstonia_eutropha_JMP134_uid58047/NC_007348	Reut_B####	5	4,8	Ralstonia eutropha	JMP134 chromosome 2	18668	0
+rep4	$GENOMESPATH/Rhizobium_etli_CFN_42_uid58377/NC_004041	RHE_PD#####	5	4,8	Rhizobium etli	CFN 42 symbiotic plasmid p42d	16507	0
+retl	$GENOMESPATH/Rhizobium_etli_CFN_42_uid58377/NC_007761	RHE_CH#####	5	4,8	Rhizobium etli	CFN 42	19178	0
+reta	$GENOMESPATH/Rhizobium_etli_CFN_42_uid58377/NC_007762	RHE_PA#####	5	4,8	Rhizobium etli	CFN 42 plasmid p42a	19179	0
+retb	$GENOMESPATH/Rhizobium_etli_CFN_42_uid58377/NC_007763	RHE_PB#####	5	4,8	Rhizobium etli	CFN 42 plasmid p42b	19180	0
+retc	$GENOMESPATH/Rhizobium_etli_CFN_42_uid58377/NC_007764	RHE_PC#####	5	4,8	Rhizobium etli	CFN 42 plasmid p42c	19181	0
+rete	$GENOMESPATH/Rhizobium_etli_CFN_42_uid58377/NC_007765	RHE_PE#####	5	4,8	Rhizobium etli	CFN 42 plasmid p42e	19182	0
+retf	$GENOMESPATH/Rhizobium_etli_CFN_42_uid58377/NC_007766	RHE_PF#####	5	4,8	Rhizobium etli	CFN 42 plasmid p42f	19183	0
+rspB	$GENOMESPATH/Rhodobacter_sphaeroides_2_4_1_uid57653/NC_007488	RSP_####	5	4,8	Rhodobacter sphaeroides	2.4.1 plasmid B	18838	0
+rspC	$GENOMESPATH/Rhodobacter_sphaeroides_2_4_1_uid57653/NC_007489	RSP_####	5	4,8	Rhodobacter sphaeroides	2.4.1 plasmid C	18839	0
+rspD	$GENOMESPATH/Rhodobacter_sphaeroides_2_4_1_uid57653/NC_007490	RSP_####	5	4,8	Rhodobacter sphaeroides	2.4.1 plasmid D	18840	0
+rsp1	$GENOMESPATH/Rhodobacter_sphaeroides_2_4_1_uid57653/NC_007493	RSP_####	5	4,8	Rhodobacter sphaeroides	2.4.1 chromosome 1	18843	0
+rsp2	$GENOMESPATH/Rhodobacter_sphaeroides_2_4_1_uid57653/NC_007494	RSP_####	5	4,8	Rhodobacter sphaeroides	2.4.1 chromosome 2	18844	0
+rspA	$GENOMESPATH/Rhodobacter_sphaeroides_2_4_1_uid57653/NC_009007	RSP_####	5	4,8	Rhodobacter sphaeroides	2.4.1 plasmid A, partial sequence.	20497	1
+rspE	$GENOMESPATH/Rhodobacter_sphaeroides_2_4_1_uid57653/NC_009008	RSP_####	5	4,8	Rhodobacter sphaeroides	2.4.1 plasmid E	20498	1
+rspa	$GENOMESPATH/Rhodobacter_sphaeroides_ATCC_17025_uid58451/NC_009428	Rsph17025_####	5	4,8	Rhodobacter sphaeroides	ATCC 17025	20943	0
+rsA1	$GENOMESPATH/Rhodobacter_sphaeroides_ATCC_17025_uid58451/NC_009429	Rsph17025_####	5	4,8	Rhodobacter sphaeroides	ATCC 17025 plasmid pRSPA01, complete	20944	0
+rsA2	$GENOMESPATH/Rhodobacter_sphaeroides_ATCC_17025_uid58451/NC_009430	Rsph17025_####	5	4,8	Rhodobacter sphaeroides	ATCC 17025 plasmid pRSPA02, complete	20945	0
+rsA3	$GENOMESPATH/Rhodobacter_sphaeroides_ATCC_17025_uid58451/NC_009431	Rsph17025_####	5	4,8	Rhodobacter sphaeroides	ATCC 17025 plasmid pRSPA03, complete	20946	0
+rsA4	$GENOMESPATH/Rhodobacter_sphaeroides_ATCC_17025_uid58451/NC_009432	Rsph17025_####	5	4,8	Rhodobacter sphaeroides	ATCC 17025 plasmid pRSPA04, complete	20947	0
+rsA5	$GENOMESPATH/Rhodobacter_sphaeroides_ATCC_17025_uid58451/NC_009433	Rsph17025_####	5	4,8	Rhodobacter sphaeroides	ATCC 17025 plasmid pRSPA05, complete	20948	0
+rsH1	$GENOMESPATH/Rhodobacter_sphaeroides_ATCC_17029_uid58449/NC_009040	Rsph17029_####	5	4,8	Rhodobacter sphaeroides	ATCC 17029 plasmid pRSPH01, complete	20530	0
+rs91	$GENOMESPATH/Rhodobacter_sphaeroides_ATCC_17029_uid58449/NC_009049	Rsph17029_####	5	4,8	Rhodobacter sphaeroides	ATCC 17029 chromosome 1	20539	0
+rs92	$GENOMESPATH/Rhodobacter_sphaeroides_ATCC_17029_uid58449/NC_009050	Rsph17029_####	5	4,8	Rhodobacter sphaeroides	ATCC 17029 chromosome 2	20540	0
+rfe1	$GENOMESPATH/Rhodoferax_ferrireducens_T118_uid58353/NC_007901	Rfer_####	5	4,8	Rhodoferax ferrireducens	T118 plasmid1	19320	0
+rfer	$GENOMESPATH/Rhodoferax_ferrireducens_T118_uid58353/NC_007908	Rfer_####	5	4,8	Rhodoferax ferrireducens	T118	19327	0
+rpaE	$GENOMESPATH/Rhodopseudomonas_palustris_BisA53_uid58445/NC_008435	RPE_####	5	4,8	Rhodopseudomonas palustris	BisA53	19886	0
+rpaC	$GENOMESPATH/Rhodopseudomonas_palustris_BisB18_uid58443/NC_007925	RPC_####	5	4,8	Rhodopseudomonas palustris	BisB18	19344	0
+rpaD	$GENOMESPATH/Rhodopseudomonas_palustris_BisB5_uid58441/NC_007958	RPD_####	5	4,8	Rhodopseudomonas palustris	BisB5	19377	0
+rpaA	$GENOMESPATH/Rhodopseudomonas_palustris_CGA009_uid62901/NC_005296	RPA####	5	4,8	Rhodopseudomonas palustris	CGA009	377	0
+rpap	$GENOMESPATH/Rhodopseudomonas_palustris_CGA009_uid62901/NC_005297	pRPA#	5	4,8	Rhodopseudomonas palustris	CGA009 plasmid pRPA	17502	0
+rpaB	$GENOMESPATH/Rhodopseudomonas_palustris_HaA2_uid58439/NC_007778	RPB_####	5	4,8	Rhodopseudomonas palustris	HaA2	19195	0
+rrup	$GENOMESPATH/Rhodospirillum_rubrum_ATCC_11170_uid57655/NC_007641	Rru_B####	5	4,8	Rhodospirillum rubrum	ATCC 11170 plasmid unnamed, complete	19057	0
+rrub	$GENOMESPATH/Rhodospirillum_rubrum_ATCC_11170_uid57655/NC_007643	Rru_A####	5	4,8	Rhodospirillum rubrum	ATCC 11170	19059	0
+rbel	$GENOMESPATH/Rickettsia_bellii_RML369_C_uid58405/NC_007940	RBE_####	5	4,8	Rickettsia bellii	RML369-C	19359	0
+rfel	$GENOMESPATH/Rickettsia_felis_URRWXCal2_uid58331/NC_007109	RF_####	5	4,8	Rickettsia felis	URRWXCal2	688	0
+rfep	$GENOMESPATH/Rickettsia_felis_URRWXCal2_uid58331/NC_007110	RF_p##	5	4,8	Rickettsia felis	URRWXCal2 plasmid pRF	18458	0
+rfed	$GENOMESPATH/Rickettsia_felis_URRWXCal2_uid58331/NC_007111	RF_pd##	5	4,8	Rickettsia felis	URRWXCal2 plasmid pRFdelta	18459	0
+rose	$GENOMESPATH/Roseiflexus_RS_1_uid58523/NC_009523	RoseRS_####	5	4,8	Roseiflexus sp.	RS-1	21079	0
+rden	$GENOMESPATH/Roseobacter_denitrificans_OCh_114_uid58597/NC_008209	RD1_####	5	4,8	Roseobacter denitrificans	OCh 114	19631	0
+rdep	$GENOMESPATH/Roseobacter_denitrificans_OCh_114_uid58597/NC_008386	RD1_A####	5	4,8	Roseobacter denitrificans	plasmid pTB1	19836	0
+rdp2	$GENOMESPATH/Roseobacter_denitrificans_OCh_114_uid58597/NC_008387	RD1_B####	5	4,8	Roseobacter denitrificans	plasmid pTB2	19837	0
+rdp3	$GENOMESPATH/Roseobacter_denitrificans_OCh_114_uid58597/NC_008388	RD1_C####	5	4,8	Roseobacter denitrificans	plasmid pTB3	19838	0
+rdp4	$GENOMESPATH/Roseobacter_denitrificans_OCh_114_uid58597/NC_008389	RD1_D####	5	4,8	Roseobacter denitrificans	plasmid pTB4	19839	0
+rxyl	$GENOMESPATH/Rubrobacter_xylanophilus_DSM_9941_uid58057/NC_008148	Rxyl_####	5	4,8	Rubrobacter xylanophilus	DSM 9941	19570	0
+sdeg	$GENOMESPATH/Saccharophagus_degradans_2_40_uid57921/NC_007912	Sde_####	5	4,8	Saccharophagus degradans	2-40	19331	0
+sery	$GENOMESPATH/Saccharopolyspora_erythraea_NRRL_2338_uid62947/NC_009142	SACE_####	5	4,8	Saccharopolyspora erythraea	NRRL 2338	20638	0
+srub	$GENOMESPATH/Salinibacter_ruber_DSM_13855_uid58513/NC_007677	SRU_####	5	4,8	Salinibacter ruber	DSM 13855	19093	0
+srup	$GENOMESPATH/Salinibacter_ruber_DSM_13855_uid58513/NC_007678	SRU_p####	5	4,8	Salinibacter ruber	DSM 13855 plasmid pSR35	19094	0
+stro	$GENOMESPATH/Salinispora_tropica_CNB_440_uid58565/NC_009380	Strop_####	5	4,8	Salinispora tropica	CNB-440	20895	0
+sama	$GENOMESPATH/Shewanella_amazonensis_SB2B_uid58257/NC_008700	Sama_####	5	4,8	Shewanella amazonensis	SB2B	20191	0
+shp1	$GENOMESPATH/Shewanella_ANA_3_uid58347/NC_008573	Shewana3_####	5	4,8	Shewanella sp.	ANA-3 plasmid 1	20064	0
+shc1	$GENOMESPATH/Shewanella_ANA_3_uid58347/NC_008577	Shewana3_####	5	4,8	Shewanella sp.	ANA-3 chromosome 1	20068	0
+sbp1	$GENOMESPATH/Shewanella_baltica_OS155_uid58259/NC_009035	Sbal_####	5	4,8	Shewanella baltica	OS155 plasmid pSbal01	20525	0
+sbp2	$GENOMESPATH/Shewanella_baltica_OS155_uid58259/NC_009036	Sbal_####	5	4,8	Shewanella baltica	OS155 plasmid pSbal02	20526	0
+sbp3	$GENOMESPATH/Shewanella_baltica_OS155_uid58259/NC_009037	Sbal_####	5	4,8	Shewanella baltica	OS155 plasmid pSbal03	20527	0
+sbp4	$GENOMESPATH/Shewanella_baltica_OS155_uid58259/NC_009038	Sbal_####	5	4,8	Shewanella baltica	OS155 plasmid pSbal04	20528	0
+sbal	$GENOMESPATH/Shewanella_baltica_OS155_uid58259/NC_009052	Sbal_####	5	4,8	Shewanella baltica	OS155	20542	0
+s5p1	$GENOMESPATH/Shewanella_baltica_OS185_uid58743/NC_009661	Shew185_####	5	4,8	Shewanella baltica	OS185 plasmid pS18501	21218	0
+sba5	$GENOMESPATH/Shewanella_baltica_OS185_uid58743/NC_009665	Shew185_####	5	4,8	Shewanella baltica	OS185	21222	0
+sden	$GENOMESPATH/Shewanella_denitrificans_OS217_uid58263/NC_007954	Sden_####	5	4,8	Shewanella denitrificans	OS217	19373	0
+sfri	$GENOMESPATH/Shewanella_frigidimarina_NCIMB_400_uid58265/NC_008345	Sfri_####	5	4,8	Shewanella frigidimarina	NCIMB 400	19795	0
+sloi	$GENOMESPATH/Shewanella_loihica_PV_4_uid58349/NC_009092	Shew_####	5	4,8	Shewanella loihica	PV-4	20588	0
+she4	$GENOMESPATH/Shewanella_MR_4_uid58345/NC_008321	Shewmr4_####	5	4,8	Shewanella sp.	MR-4	19744	0
+s7p1	$GENOMESPATH/Shewanella_MR_7_uid58343/NC_008320	Shewmr7_####	5	4,8	Shewanella sp.	MR-7 plasmid1	19743	0
+she7	$GENOMESPATH/Shewanella_MR_7_uid58343/NC_008322	Shewmr7_####	5	4,8	Shewanella sp.	MR-7	19745	0
+sput	$GENOMESPATH/Shewanella_putrefaciens_CN_32_uid58267/NC_009438	Sputcn32_####	5	4,8	Shewanella putrefaciens	CN-32	20953	0
+shw3	$GENOMESPATH/Shewanella_W3_18_1_uid58341/NC_008750	Sputw3181_####	5	4,8	Shewanella sp.	W3-18-1	20241	0
+sbop	$GENOMESPATH/Shigella_boydii_Sb227_uid58215/NC_007608	SBO_P###	5	4,8	Shigella boydii	Sb227 plasmid pSB4_227	19003	0
+sboy	$GENOMESPATH/Shigella_boydii_Sb227_uid58215/NC_007613	SBO_####	5	4,8	Shigella boydii	Sb227	19008	0
+sfl2	$GENOMESPATH/Shigella_flexneri_2a_2457T_uid57991/NC_004741	S####	5	4,8	Shigella flexneri	2a str. 2457T	297	0
+sfl5	$GENOMESPATH/Shigella_flexneri_5_8401_uid58583/NC_008258	SFV_####	5	4,8	Shigella flexneri	5 str. 8401	19681	0
+sson	$GENOMESPATH/Shigella_sonnei_Ss046_uid58217/NC_007384	SSON_####	5	4,8	Shigella sonnei	Ss046	18730	0
+ssop	$GENOMESPATH/Shigella_sonnei_Ss046_uid58217/NC_007385	SSO_P###	5	4,8	Shigella sonnei	Ss046 plasmid pSS_046	18731	0
+sspA	$GENOMESPATH/Shigella_sonnei_Ss046_uid58217/NC_009345	SSON_PA##	5	4,8	Shigella sonnei	Ss046 plasmid pSS046_spA	20860	0
+sspB	$GENOMESPATH/Shigella_sonnei_Ss046_uid58217/NC_009346	SSON_PB##	5	4,8	Shigella sonnei	Ss046 plasmid pSS046_spB	20861	0
+sspC	$GENOMESPATH/Shigella_sonnei_Ss046_uid58217/NC_009347	SSON_PC##	5	4,8	Shigella sonnei	Ss046 plasmid pSS046_spC	20862	0
+smp1	$GENOMESPATH/Sinorhizobium_medicae_WSM419_uid58549/NC_009620	Smed_####	5	4,8	Sinorhizobium medicae	WSM419 plasmid pSMED01	21177	0
+smp2	$GENOMESPATH/Sinorhizobium_medicae_WSM419_uid58549/NC_009621	Smed_####	5	4,8	Sinorhizobium medicae	WSM419 plasmid pSMED02	21178	0
+smp3	$GENOMESPATH/Sinorhizobium_medicae_WSM419_uid58549/NC_009622	Smed_####	5	4,8	Sinorhizobium medicae	WSM419 plasmid pSMED03	21179	0
+smed	$GENOMESPATH/Sinorhizobium_medicae_WSM419_uid58549/NC_009636	Smed_####	5	4,8	Sinorhizobium medicae	WSM419	21193	0
+swp1	$GENOMESPATH/Sphingomonas_wittichii_RW1_uid58691/NC_009507	Swit_####	5	4,8	Sphingomonas wittichii	RW1 plasmid pSWIT01	21063	0
+swp2	$GENOMESPATH/Sphingomonas_wittichii_RW1_uid58691/NC_009508	Swit_####	5	4,8	Sphingomonas wittichii	RW1 plasmid pSWIT02	21064	0
+swit	$GENOMESPATH/Sphingomonas_wittichii_RW1_uid58691/NC_009511	Swit_####	5	4,8	Sphingomonas wittichii	RW1	21067	0
+salp	$GENOMESPATH/Sphingopyxis_alaskensis_RB2256_uid58351/NC_008036	Sala_####	5	4,8	Sphingopyxis alaskensis	RB2256 F plasmid	19455	1
+sala	$GENOMESPATH/Sphingopyxis_alaskensis_RB2256_uid58351/NC_008048	Sala_####	5	4,8	Sphingopyxis alaskensis	RB2256	19467	0
+saCO	$GENOMESPATH/Staphylococcus_aureus_COL_uid57797/NC_002951	SACOL####	5	4,8	Staphylococcus aureus	subsp. aureus COL	610	0
+saCp	$GENOMESPATH/Staphylococcus_aureus_COL_uid57797/NC_006629	SAA####	5	4,8	Staphylococcus aureus	subsp. aureus COL plasmid pT181, complete	18162	1
+saJp	$GENOMESPATH/Staphylococcus_aureus_JH1_uid58457/NC_009619	SaurJH1_####	5	4,8	Staphylococcus aureus	subsp. aureus JH1 plasmid pSJH101, complete	21176	0
+sauJ	$GENOMESPATH/Staphylococcus_aureus_JH1_uid58457/NC_009632	SaurJH1_####	5	4,8	Staphylococcus aureus	subsp. aureus JH1	21189	0
+sa9p	$GENOMESPATH/Staphylococcus_aureus_JH9_uid58455/NC_009477	SaurJH9_####	5	4,8	Staphylococcus aureus	subsp. aureus JH9 plasmid pSJH901, complete	20993	0
+sau9	$GENOMESPATH/Staphylococcus_aureus_JH9_uid58455/NC_009487	SaurJH9_####	5	4,8	Staphylococcus aureus	subsp. aureus JH9	21003	0
+sauM	$GENOMESPATH/Staphylococcus_aureus_Mu50_uid57835/NC_002758	SAV####	5	4,8	Staphylococcus aureus	subsp. aureus Mu50	182	0
+saMV	$GENOMESPATH/Staphylococcus_aureus_Mu50_uid57835/NC_002774	SAVP###	5	4,8	Staphylococcus aureus	subsp. aureus Mu50 plasmid VRSAp, complete	15662	0
+saMW	$GENOMESPATH/Staphylococcus_aureus_MW2_uid57903/NC_003923	MW####	5	4,8	Staphylococcus aureus	subsp. aureus MW2	243	0
+sauN	$GENOMESPATH/Staphylococcus_aureus_N315_uid57837/NC_002745	SA####	5	4,8	Staphylococcus aureus	subsp. aureus N315	179	0
+saNp	$GENOMESPATH/Staphylococcus_aureus_N315_uid57837/NC_003140	SAP###	5	4,8	Staphylococcus aureus	subsp. aureus N315 plasmid pN315, complete	15804	0
+sa83	$GENOMESPATH/Staphylococcus_aureus_NCTC_8325_uid57795/NC_007795	SAOUHSC_#####	5	4,8	Staphylococcus aureus	subsp. aureus NCTC 8325	19213	1
+SaNe	$GENOMESPATH/Staphylococcus_aureus_Newman_uid58839/NC_009641	NWMN_####	5	4,8	Staphylococcus aureus	subsp. aureus str. Newman	21198	0
+saRF	$GENOMESPATH/Staphylococcus_aureus_RF122_uid57661/NC_007622	SAB####	5	4,8	Staphylococcus aureus	RF122	19017	0
+sepi	$GENOMESPATH/Staphylococcus_epidermidis_ATCC_12228_uid57861/NC_004461	SE####	5	4,8	Staphylococcus epidermidis	ATCC 12228	271	0
+sep6	$GENOMESPATH/Staphylococcus_epidermidis_ATCC_12228_uid57861/NC_005003	p6##	5	4,8	Staphylococcus epidermidis	ATCC 12228 plasmid pSE-12228-06,	17278	0
+sep5	$GENOMESPATH/Staphylococcus_epidermidis_ATCC_12228_uid57861/NC_005004	p5##	5	4,8	Staphylococcus epidermidis	ATCC 12228 plasmid pSE-12228-05,	17279	0
+sep4	$GENOMESPATH/Staphylococcus_epidermidis_ATCC_12228_uid57861/NC_005005	p4##	5	4,8	Staphylococcus epidermidis	ATCC 12228 plasmid pSE-12228-04,	17280	0
+sep3	$GENOMESPATH/Staphylococcus_epidermidis_ATCC_12228_uid57861/NC_005006	p3##	5	4,8	Staphylococcus epidermidis	ATCC 12228 plasmid pSE-12228-03,	17281	0
+sep2	$GENOMESPATH/Staphylococcus_epidermidis_ATCC_12228_uid57861/NC_005007	p2##	5	4,8	Staphylococcus epidermidis	ATCC 12228 plasmid pSE-12228-02,	17282	0
+sep1	$GENOMESPATH/Staphylococcus_epidermidis_ATCC_12228_uid57861/NC_005008	p1##	5	4,8	Staphylococcus epidermidis	ATCC 12228 plasmid pSE-12228-01,	17283	0
+seRP	$GENOMESPATH/Staphylococcus_epidermidis_RP62A_uid57663/NC_002976	SERP####	5	4,8	Staphylococcus epidermidis	RP62A	611	0
+seRp	$GENOMESPATH/Staphylococcus_epidermidis_RP62A_uid57663/NC_006663	SEA####	5	4,8	Staphylococcus epidermidis	RP62A plasmid pSERP	18196	0
+smar	$GENOMESPATH/Staphylothermus_marinus_F1_uid58719/NC_009033	Smar_####	5	4,8	Staphylothermus marinus	F1	20523	0
+saA9	$GENOMESPATH/Streptococcus_agalactiae_A909_uid57935/NC_007432	SAK_####	5	4,8	Streptococcus agalactiae	A909	18782	0
+sagN	$GENOMESPATH/Streptococcus_agalactiae_NEM316_uid61585/NC_004368	gbs####	5	4,8	Streptococcus agalactiae	NEM316	264	0
+spnD	$GENOMESPATH/Streptococcus_pneumoniae_D39_uid58581/NC_008533	SPD_####	5	4,8	Streptococcus pneumoniae	D39	20023	0
+spnR	$GENOMESPATH/Streptococcus_pneumoniae_R6_uid57859/NC_003098	spr####	5	4,8	Streptococcus pneumoniae	R6	198	0
+spnT	$GENOMESPATH/Streptococcus_pneumoniae_TIGR4_uid57857/NC_003028	SP_####	5	4,8	Streptococcus pneumoniae	TIGR4	184	0
+spyo	$GENOMESPATH/Streptococcus_pyogenes_M1_GAS_uid57845/NC_002737	SPy_####	5	4,8	Streptococcus pyogenes	M1 GAS	178	0
+spyM	$GENOMESPATH/Streptococcus_pyogenes_Manfredo_uid57847/NC_009332	SpyM5####	5	4,8	Streptococcus pyogenes	str. Manfredo	20828	0
+sp10	$GENOMESPATH/Streptococcus_pyogenes_MGAS10270_uid58571/NC_008022	MGAS10270_Spy####	5	4,8	Streptococcus pyogenes	MGAS10270	19441	0
+spM1	$GENOMESPATH/Streptococcus_pyogenes_MGAS10394_uid58105/NC_006086	M6_Spy####	5	4,8	Streptococcus pyogenes	MGAS10394	448	0
+sp75	$GENOMESPATH/Streptococcus_pyogenes_MGAS10750_uid58575/NC_008024	MGAS10750_Spy####	5	4,8	Streptococcus pyogenes	MGAS10750	19443	0
+sp20	$GENOMESPATH/Streptococcus_pyogenes_MGAS2096_uid58573/NC_008023	MGAS2096_Spy####	5	4,8	Streptococcus pyogenes	MGAS2096	19442	0
+spM3	$GENOMESPATH/Streptococcus_pyogenes_MGAS315_uid57911/NC_004070	SpyM3_####	5	4,8	Streptococcus pyogenes	MGAS315	249	0
+sp50	$GENOMESPATH/Streptococcus_pyogenes_MGAS5005_uid58337/NC_007297	M5005_Spy_####	5	4,8	Streptococcus pyogenes	MGAS5005	18620	0
+sp61	$GENOMESPATH/Streptococcus_pyogenes_MGAS6180_uid58335/NC_007296	M28_Spy####	5	4,8	Streptococcus pyogenes	MGAS6180	18619	0
+spM8	$GENOMESPATH/Streptococcus_pyogenes_MGAS8232_uid57871/NC_003485	spyM18_####	5	4,8	Streptococcus pyogenes	MGAS8232	234	0
+sp94	$GENOMESPATH/Streptococcus_pyogenes_MGAS9429_uid58569/NC_008021	MGAS9429_Spy####	5	4,8	Streptococcus pyogenes	MGAS9429	19440	0
+spyS	$GENOMESPATH/Streptococcus_pyogenes_SSI_1_uid57895/NC_004606	SPs####	5	4,8	Streptococcus pyogenes	SSI-1	289	0
+ssan	$GENOMESPATH/Streptococcus_sanguinis_SK36_uid58381/NC_009009	SSA_####	5	4,8	Streptococcus sanguinis	SK36	20499	0
+ssui	$GENOMESPATH/Streptococcus_suis_05ZYH33_uid58663/NC_009442	SSU05_####	5	4,8	Streptococcus suis	05ZYH33	20957	0
+ssu9	$GENOMESPATH/Streptococcus_suis_98HAH33_uid58665/NC_009443	SSU98_####	5	4,8	Streptococcus suis	98HAH33	20958	0
+sthC	$GENOMESPATH/Streptococcus_thermophilus_CNRZ1066_uid58221/NC_006449	str####	5	4,8	Streptococcus thermophilus	CNRZ1066	529	0
+stL1	$GENOMESPATH/Streptococcus_thermophilus_LMD_9_uid58327/NC_008500	STER_A#	5	4,8	Streptococcus thermophilus	LMD-9 plasmid 1	19990	0
+stL2	$GENOMESPATH/Streptococcus_thermophilus_LMD_9_uid58327/NC_008501	STER_B#	5	4,8	Streptococcus thermophilus	LMD-9 plasmid 2	19991	0
+stL9	$GENOMESPATH/Streptococcus_thermophilus_LMD_9_uid58327/NC_008532	STER_####	5	4,8	Streptococcus thermophilus	LMD-9	20022	0
+sthL	$GENOMESPATH/Streptococcus_thermophilus_LMG_18311_uid58219/NC_006448	stu####	5	4,8	Streptococcus thermophilus	LMG 18311	528	0
+saci	$GENOMESPATH/Sulfolobus_acidocaldarius_DSM_639_uid58379/NC_007181	Saci_####	5	4,8	Sulfolobus acidocaldarius	DSM 639	18499	0
+sNBC	$GENOMESPATH/Sulfurovum_NBC37_1_uid58863/NC_009663	SUN_####	5	4,8	Sulfurovum sp.	NBC37-1	21220	0
+sthe	$GENOMESPATH/Symbiobacterium_thermophilum_IAM_14863_uid58165/NC_006177	STH####	5	4,8	Symbiobacterium thermophilum	IAM 14863	496	0
+sCC9	$GENOMESPATH/Synechococcus_CC9311_uid58123/NC_008319	sync_####	5	4,8	Synechococcus sp.	CC9311	19742	0
+sC96	$GENOMESPATH/Synechococcus_CC9605_uid58319/NC_007516	Syncc9605_####	5	4,8	Synechococcus sp.	CC9605	18911	0
+sC99	$GENOMESPATH/Synechococcus_CC9902_uid58323/NC_007513	Syncc9902_####	5	4,8	Synechococcus sp.	CC9902	18908	0
+selo	$GENOMESPATH/Synechococcus_elongatus_PCC_6301_uid58235/NC_006576	syc####_[cd]	5	4,8	Synechococcus elongatus	PCC 6301	564	0
+se7p	$GENOMESPATH/Synechococcus_elongatus_PCC_7942_uid58045/NC_007595	Synpcc7942_B####	5	4,8	Synechococcus elongatus	PCC 7942 plasmid 1	18990	0
+se7c	$GENOMESPATH/Synechococcus_elongatus_PCC_7942_uid58045/NC_007604	Synpcc7942_####	5	4,8	Synechococcus elongatus	PCC 7942	18999	0
+sRCC	$GENOMESPATH/Synechococcus_RCC307_uid61609/NC_009482	SynRCC307_####	5	4,8	Synechococcus sp.	RCC307	20998	0
+sWH7	$GENOMESPATH/Synechococcus_WH_7803_uid61607/NC_009481	SynWH7803_####	5	4,8	Synechococcus sp.	WH 7803	20997	0
+spcc	$GENOMESPATH/Synechocystis_PCC_6803_uid57659/NC_000911	s[ls][lr]####	5	4,8	Synechocystis sp.	PCC 6803	112	0
+spcM	$GENOMESPATH/Synechocystis_PCC_6803_uid57659/NC_005229	s[ls][lr]####	5	4,8	Synechocystis sp.	PCC 6803 plasmid pSYSM	17436	0
+spcA	$GENOMESPATH/Synechocystis_PCC_6803_uid57659/NC_005230	s[ls][lr]####	5	4,8	Synechocystis sp.	PCC 6803 plasmid pSYSA	17437	0
+spcG	$GENOMESPATH/Synechocystis_PCC_6803_uid57659/NC_005231	s[ls][lr]####	5	4,8	Synechocystis sp.	PCC 6803 plasmid pSYSG	17438	0
+spcX	$GENOMESPATH/Synechocystis_PCC_6803_uid57659/NC_005232	s[ls][lr]####	5	4,8	Synechocystis sp.	PCC 6803 plasmid pSYSX	17439	0
+sfum	$GENOMESPATH/Syntrophobacter_fumaroxidans_MPOB_uid58177/NC_008554	Sfum_####	5	4,8	Syntrophobacter fumaroxidans	MPOB	20044	0
+swol	$GENOMESPATH/Syntrophomonas_wolfei_Goettingen_uid58179/NC_008346	Swol_####	5	4,8	Syntrophomonas wolfei	subsp. wolfei str. Goettingen, complete	19796	0
+sacS	$GENOMESPATH/Syntrophus_aciditrophicus_SB_uid58539/NC_007759	SYN_#####	5	4,8	Syntrophus aciditrophicus	SB	19176	0
+tfus	$GENOMESPATH/Thermobifida_fusca_YX_uid57703/NC_007333	Tfu_####	5	4,8	Thermobifida fusca	YX	18653	0
+tpp1	$GENOMESPATH/Thermofilum_pendens_Hrk_5_uid58563/NC_008696	Tpen_####	5	4,8	Thermofilum pendens	Hrk 5 plasmid pTPEN01	20187	0
+tpen	$GENOMESPATH/Thermofilum_pendens_Hrk_5_uid58563/NC_008698	Tpen_####	5	4,8	Thermofilum pendens	Hrk 5	20189	0
+tmel	$GENOMESPATH/Thermosipho_melanesiensis_BI429_uid58683/NC_009616	Tmel_####	5	4,8	Thermosipho melanesiensis	BI429	21173	0
+tpet	$GENOMESPATH/Thermotoga_petrophila_RKU_1_uid58655/NC_009486	Tpet_####	5	4,8	Thermotoga petrophila	RKU-1	21002	0
+tthe	$GENOMESPATH/Thermus_thermophilus_HB27_uid58033/NC_005835	TTC####	5	4,8	Thermus thermophilus	HB27	398	0
+tthp	$GENOMESPATH/Thermus_thermophilus_HB27_uid58033/NC_005838	TT_P####	5	4,8	Thermus thermophilus	HB27 plasmid pTT27	17646	0
+tth8	$GENOMESPATH/Thermus_thermophilus_HB8_uid58223/NC_006461	TTHA####	5	4,8	Thermus thermophilus	HB8	530	0
+tt8p	$GENOMESPATH/Thermus_thermophilus_HB8_uid58223/NC_006462	TTHB###	5	4,8	Thermus thermophilus	HB8 plasmid pTT27	18068	0
+tt88	$GENOMESPATH/Thermus_thermophilus_HB8_uid58223/NC_006463	TTHC###	5	4,8	Thermus thermophilus	HB8 plasmid pTT8	18069	0
+thd2	$GENOMESPATH/Thiobacillus_denitrificans_ATCC_25259_uid58189/NC_007404	Tbd_####	5	4,8	Thiobacillus denitrificans	ATCC 25259	18750	0
+tcru	$GENOMESPATH/Thiomicrospira_crunogena_XCL_2_uid58183/NC_007520	Tcr_####	5	4,8	Thiomicrospira crunogena	XCL-2	18916	0
+tden	$GENOMESPATH/Treponema_denticola_ATCC_35405_uid57583/NC_002967	TDE####	5	4,8	Treponema denticola	ATCC 35405	381	0
+tery	$GENOMESPATH/Trichodesmium_erythraeum_IMS101_uid57925/NC_008312	Tery_####	5	4,8	Trichodesmium erythraeum	IMS101	19735	0
+TW08	$GENOMESPATH/Tropheryma_whipplei_TW08_27_uid57961/NC_004551	TW###	5	4,8	Tropheryma whipplei	TW08/27	278	0
+twhi	$GENOMESPATH/Tropheryma_whipplei_Twist_uid57705/NC_004572	TWT###	5	4,8	Tropheryma whipplei	str. Twist	277	0
+aRCI	$GENOMESPATH/uncultured_methanogenic_archaeon_RC_I_uid61623/NC_009464	LRC##	5	4,8	Uncultured methanogenic	archaeon RC-I	20979	0
+vep1	$GENOMESPATH/Verminephrobacter_eiseniae_EF01_2_uid58675/NC_008771	Veis_####	5	4,8	Verminephrobacter eiseniae	EF01-2 plasmid pVEIS01, complete	20262	0
+veis	$GENOMESPATH/Verminephrobacter_eiseniae_EF01_2_uid58675/NC_008786	Veis_####	5	4,8	Verminephrobacter eiseniae	EF01-2	20277	0
+vcO1	$GENOMESPATH/Vibrio_cholerae_O395_uid58425/NC_009456	VC0395_####	5	4,8	Vibrio cholerae	O395 chromosome 1	20971	0
+vcO2	$GENOMESPATH/Vibrio_cholerae_O395_uid58425/NC_009457	VC0395_A####	5	4,8	Vibrio cholerae	O395 chromosome 2	20972	0
+vfi1	$GENOMESPATH/Vibrio_fischeri_ES114_uid58163/NC_006840	VF####	5	4,8	Vibrio fischeri	ES114 chromosome I	633	0
+vfi2	$GENOMESPATH/Vibrio_fischeri_ES114_uid58163/NC_006841	VFA####	5	4,8	Vibrio fischeri	ES114 chromosome II	634	0
+vfip	$GENOMESPATH/Vibrio_fischeri_ES114_uid58163/NC_006842	VFB##	5	4,8	Vibrio fischeri	ES114 plasmid pES100	18236	0
+vvu1	$GENOMESPATH/Vibrio_vulnificus_CMCP6_uid62909/NC_004459	VV1_####	5	4,8	Vibrio vulnificus	CMCP6 chromosome I	269	0
+vvu2	$GENOMESPATH/Vibrio_vulnificus_CMCP6_uid62909/NC_004460	VV2_####	5	4,8	Vibrio vulnificus	CMCP6 chromosome II	270	0
+vvYp	$GENOMESPATH/Vibrio_vulnificus_YJ016_uid58007/NC_005128	VVP##	5	4,8	Vibrio vulnificus	YJ016 plasmid pYJ016	17369	0
+vvY1	$GENOMESPATH/Vibrio_vulnificus_YJ016_uid58007/NC_005139	VV####	5	4,8	Vibrio vulnificus	YJ016 chromosome I	348	0
+vvY2	$GENOMESPATH/Vibrio_vulnificus_YJ016_uid58007/NC_005140	VVA####	5	4,8	Vibrio vulnificus	YJ016 chromosome II	349	0
+wolb	$GENOMESPATH/Wolbachia_endosymbiont_of_Drosophila_melanogaster_uid57851/NC_002978	WD####	5	4,8	Wolbachia endosymbiont	of Drosophila melanogaster	383	0
+xap1	$GENOMESPATH/Xanthobacter_autotrophicus_Py2_uid58453/NC_009717	Xaut_####	5	4,8	Xanthobacter autotrophicus	Py2 plasmid pXAUT01	21274	0
+xaut	$GENOMESPATH/Xanthobacter_autotrophicus_Py2_uid58453/NC_009720	Xaut_####	5	4,8	Xanthobacter autotrophicus	Py2	21277	0
+xca8	$GENOMESPATH/Xanthomonas_campestris_8004_uid57595/NC_007086	XC_####	5	4,8	Xanthomonas campestris	pv. campestris str. 8004	678	0
+xcva	$GENOMESPATH/Xanthomonas_campestris_vesicatoria_85_10_uid58321/NC_007504	XCVa####	5	4,8	Xanthomonas campestris	pv. vesicatoria str. 85-10 plasmid pXCV2,	18854	0
+xcvb	$GENOMESPATH/Xanthomonas_campestris_vesicatoria_85_10_uid58321/NC_007505	XCVb####	5	4,8	Xanthomonas campestris	pv. vesicatoria str. 85-10 plasmid pXCV19,	18855	0
+xcvc	$GENOMESPATH/Xanthomonas_campestris_vesicatoria_85_10_uid58321/NC_007506	XCVc####	5	4,8	Xanthomonas campestris	pv. vesicatoria str. 85-10 plasmid pXCV38,	18856	0
+xcvd	$GENOMESPATH/Xanthomonas_campestris_vesicatoria_85_10_uid58321/NC_007507	XCVd####	5	4,8	Xanthomonas campestris	pv. vesicatoria str. 85-10 plasmid pXCV183,	18857	0
+xcve	$GENOMESPATH/Xanthomonas_campestris_vesicatoria_85_10_uid58321/NC_007508	XCV####	5	4,8	Xanthomonas campestris	pv. vesicatoria str. 85-10	18858	0
+xory	$GENOMESPATH/Xanthomonas_oryzae_KACC10331_uid58155/NC_006834	XOO####	5	4,8	Xanthomonas oryzae	pv. oryzae KACC10331	631	0
+xorM	$GENOMESPATH/Xanthomonas_oryzae_MAFF_311018_uid58547/NC_007705	XOO_####	5	4,8	Xanthomonas oryzae	pv. oryzae MAFF 311018	19121	0
+xfTp	$GENOMESPATH/Xylella_fastidiosa_Temecula1_uid57869/NC_004554	PDa####	5	4,8	Xylella fastidiosa	Temecula1 plasmid pXFPD1.3	16873	0
+xfTe	$GENOMESPATH/Xylella_fastidiosa_Temecula1_uid57869/NC_004556	PD####	5	4,8	Xylella fastidiosa	Temecula1	274	0
+ye8p	$GENOMESPATH/Yersinia_enterocolitica_8081_uid57741/NC_008791	YEP####	5	4,8	Yersinia enterocolitica	subsp. enterocolitica 8081 plasmid	20282	0
+ye81	$GENOMESPATH/Yersinia_enterocolitica_8081_uid57741/NC_008800	YE####	5	4,8	Yersinia enterocolitica	subsp. enterocolitica 8081, complete	20291	0
+ypAM	$GENOMESPATH/Yersinia_pestis_Antiqua_uid58607/NC_008120	YPA_MT####	5	4,8	Yersinia pestis	Antiqua plasmid pMT	19542	0
+ypAP	$GENOMESPATH/Yersinia_pestis_Antiqua_uid58607/NC_008121	YPA_PCP####	5	4,8	Yersinia pestis	Antiqua plasmid pPCP	19543	0
+ypAC	$GENOMESPATH/Yersinia_pestis_Antiqua_uid58607/NC_008122	YPA_CD####	5	4,8	Yersinia pestis	Antiqua plasmid pCD	19544	0
+ypAn	$GENOMESPATH/Yersinia_pestis_Antiqua_uid58607/NC_008150	YPA_####	5	4,8	Yersinia pestis	Antiqua	19572	0
+ypCC	$GENOMESPATH/Yersinia_pestis_CO92_uid57621/NC_003131	YPCD1.##	5	4,8	Yersinia pestis	CO92 plasmid pCD1	15797	0
+ypCP	$GENOMESPATH/Yersinia_pestis_CO92_uid57621/NC_003132	YPPCP1.##	5	4,8	Yersinia pestis	CO92 plasmid pPCP1	15798	0
+ypCM	$GENOMESPATH/Yersinia_pestis_CO92_uid57621/NC_003134	YPMT1.##	5	4,8	Yersinia pestis	CO92 plasmid pMT1	15799	0
+ypCO	$GENOMESPATH/Yersinia_pestis_CO92_uid57621/NC_003143	YPO####	5	4,8	Yersinia pestis	CO92	201	0
+ypNM	$GENOMESPATH/Yersinia_pestis_Nepal516_uid58609/NC_008118	YPN_MT####	5	4,8	Yersinia pestis	Nepal516 plasmid pMT	19540	0
+ypNP	$GENOMESPATH/Yersinia_pestis_Nepal516_uid58609/NC_008119	YPN_PCP####	5	4,8	Yersinia pestis	Nepal516 plasmid pPCP	19541	0
+ypNe	$GENOMESPATH/Yersinia_pestis_Nepal516_uid58609/NC_008149	YPN_####	5	4,8	Yersinia pestis	Nepal516	19571	0
+ypPC	$GENOMESPATH/Yersinia_pestis_Pestoides_F_uid58619/NC_009377	YPDSF_####	5	4,8	Yersinia pestis	Pestoides F plasmid CD	20892	0
+ypPM	$GENOMESPATH/Yersinia_pestis_Pestoides_F_uid58619/NC_009378	YPDSF_####	5	4,8	Yersinia pestis	Pestoides F plasmid MT	20893	0
+ypPF	$GENOMESPATH/Yersinia_pestis_Pestoides_F_uid58619/NC_009381	YPDSF_####	5	4,8	Yersinia pestis	Pestoides F	20896	0
+ypIp	$GENOMESPATH/Yersinia_pseudotuberculosis_IP_31758_uid58487/NC_009704	YpsIP31758_A####	5	4,8	Yersinia pseudotuberculosis	IP 31758 plasmid_59kb, complete	21261	0
+ypI2	$GENOMESPATH/Yersinia_pseudotuberculosis_IP_31758_uid58487/NC_009705	YpsIP31758_B####	5	4,8	Yersinia pseudotuberculosis	IP 31758 plasmid_153kb, complete	21262	0
+ypI3	$GENOMESPATH/Yersinia_pseudotuberculosis_IP_31758_uid58487/NC_009708	YpsIP31758_####	5	4,8	Yersinia pseudotuberculosis	IP 31758	21265	0
+ypsY	$GENOMESPATH/Yersinia_pseudotuberculosis_IP_32953_uid58157/NC_006153	pYV####	5	4,8	Yersinia pseudotuberculosis	IP 32953 plasmid pYV, complete	17877	0
+ypsp	$GENOMESPATH/Yersinia_pseudotuberculosis_IP_32953_uid58157/NC_006154	pYptb####	5	4,8	Yersinia pseudotuberculosis	IP 32953 plasmid pYptb32953, complete	17878	0
+ypse	$GENOMESPATH/Yersinia_pseudotuberculosis_IP_32953_uid58157/NC_006155	YPTB####	5	4,8	Yersinia pseudotuberculosis	IP 32953	494	0
+zmob	$GENOMESPATH/Zymomonas_mobilis_ZM4_uid58095/NC_006526	ZMO####	5	4,8	Zymomonas mobilis	subsp. mobilis ZM4	561	0

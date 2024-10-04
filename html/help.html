@@ -1,0 +1,318 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Genome Tools Help</title>
+</head>
+
+<body>
+
+<p>AAA!! What do all these fields mean?</p>
+<p>Give me help on: <table width=100% border=1>
+<tr>
+<td align=middle><a href="#genome">Selecting Genome</a></td>
+<td align=middle><a href="#position">Position</a></td>
+<td align=middle><a href="#nearestorf">Nearest ORF</a></td>
+<td align=middle><a href="#GATC">GATC</a></td>
+<td align=middle><a href="#codonuse">Codon Usage</a></td>
+<td align=middle><a href="#subseq">Subsequence</a></td>
+<td align=middle><a href="#surround">Surround</a></td>
+</tr><tr>
+<td align=middle><a href="#orfregion">ORF Region</a></td>
+<td align=middle><a href="#translate">Translate</a></td>
+<td align=middle><a href="#MW">Molecular Weight</a></td>
+<td align=middle><a href="#revcomp">Reverse Complement</a></td>
+<td align=middle><a href="#files">Genome Files</a></td>
+<td align=middle><a href="#ps-circular">Circular-Chromosome location</a></td>
+<td align=middle><a href="#ps-graphic">Graphic-Gene organization</a></td>
+</tr>
+</table>
+
+<p><a name=genome><H2>Selecting Genome</H2></a>
+
+Choose which genome to perform genomic functions upon.<br>
+<br>
+Please click on the button corresponding to your genome of interest or click on<br>
+the name of the genome.<br>
+<br><br>
+
+<p><a name=position><H2>Position</H2></a>
+
+Give all positions of a DNA sequence within a genome.<br>
+<br>
+Input is of the form:<br>
+&gt;Header_line<br>
+DNA_sequence<br>
+<br>
+Where DNA_sequence is the sequence you want to search for. This usually will<br>
+only contain G, A, T, or C, but it will also take extended one-letter<br>
+abbreviations for ambiguous bases (BDHKMNRSVWXY, see below for what<br>
+they stand for).  Upper and lowercase input are both ok.<br>
+<br>
+Output will print out header lines as they appear. For each DNA_sequence<br>
+it will give you a descriptive header line followed by nucleotide positions<br>
+of exact matches to DNA_sequence. It will indicate which strand the match is<br>
+on by a + or - before the position number. It will always give you the<br>
+nucleotide position of the first character of DNA_sequence, whether that is<br>
+on the (+) or the (-) strand (as given by the Genbank sequence (.fna) file).<br>
+i.e. if your sequence is 5bp long, it will get an exact match at say<br>
+position 10 through 14 on the (+) strand, and say 16 through 20 on the (-)<br>
+strand. The program will give you +10, and -20, which are the positions<br>
+of the first (5'-most) base in the sequence you entered.<br>
+<br>
+The <a href="http://www.chem.qmul.ac.uk/iupac/misc/naseq.html">IUPAC abbreviations</a>, as coded into the position program, are:<br>
+B = C, G, T<br>
+D = A, G, T<br>
+H = A, C, T<br>
+K = G, T<br>
+M = A, C<br>
+N = A, C, G, T<br>
+R = A, G<br>
+S = C, G<br>
+V = A, C, G<br>
+W = A, T<br>
+X = A, C, G, T (This is not technically IUPAC but it's here for convenience)<br>
+Y = C, T<br>
+<br><br>
+
+<a name=nearestorf><H2>Nearest ORF</H2></a>
+
+Find genes closest to a given nucleotide position.<br>
+<br>
+Input is of the form:<br>
+&gt;Header_line<br>
+n<br>
+<br>
+where n is the nucleotide position you're interested in.<br>
+Each n must be on a separate line. Header lines can occur anywhere (they<br>
+start with a '&gt;') and will just be printed as they are encountered.<br>
+A + or - in front of n will be ignored.<br>
+<br>
+Output will tell you if n is inside a gene, and which gene. If n is between<br>
+genes, it will tell you how far it is from the closest gene on either side<br>
+(- is upstream, + is downstream), and what direction the gene is in (+ is<br>
+the direction assigned by Genbank in the sequence (.fna) file, - is the<br>
+reverse direction). All numbers and directions are given relative to the<br>
+gene they refer to.<br>
+<br><br>
+
+<a name=GATC><H2>GATC</H2></a>
+
+Calculate nucleotide content of a given DNA sequence.<br>
+<br>
+Input is FASTA format, i.e. a header line starting with '&gt;'<br>
+then the sequence following. For example,<br>
+<br>
+&gt;My_DNA_sequence<br>
+GCCATCGACGATC<br>
+<br>
+Output will be any header lines followed by the number and percent of<br>
+G, A, T, and C content in the sequence. The last line is number and percent<br>
+of GC content. Any invalid letters will be ignored and will not affect<br>
+the percentages, but will be reported in the last line as discarded.<br>
+<br><br>
+
+<a name=codonuse><H2>Codon Usage</H2></a>
+
+Calculate codon usage for a given DNA sequence.<br>
+<br>
+Input is FASTA format, i.e. a header line starting with '&gt;'<br>
+then the sequence following. FOr example, <br>
+<br>
+&gt;My_DNA_sequence<br>
+GCCATCGACGAT<br>
+<br>
+Your sequence MUST be of a length divisible by 3, otherwise it will not get<br>
+processed. It must also be in the proper reading frame already.<br>
+<br>
+Output will tell you how many codons you have (including stop codons), then<br>
+a table indicating how many times each codon was used and its percentage of<br>
+the total.<br>
+<br><br>
+
+<a name=subseq><H2>Subsequence</H2></a>
+
+Pull out a subsequence from a particular genome sequence, starting at a<br>
+specified nucleotide position.<br>
+<br>
+There are two inputs: Start and Length.<br>
+<br>
+Start is the starting nucleotide position according to the Genbank sequence<br>
+file. Length is the length of sequence you want starting at position Start.<br>
+You can optionally put a + or - sign in front of either Start or Length. The<br>
+[+|-] indicates which strand you want. If one or the other of Start or Length<br>
+are negative, you get the negative strand. If both are + or both are - then<br>
+you get the positive strand.<br>
+<br>
+** NOTE **<br>
+This means that you cannot use Start = 0. Also, Start = -1 does not mean the<br>
+next to last position in the genome. Start = -1 means position 1, (-) strand.<br>
+**********<br>
+<br>
+Output consists of a descriptive header, followed by the sequence on the<br>
+appropriate strand (as set by the Genbank sequence (.fna) file).<br>
+<br><br>
+
+<a name=surround><H2>Surround</H2></a>
+
+Pull out a subsequence from a particular genome sequence, centered around a<br>
+given nucleotide position.<br>
+<br>
+There are two inputs: Position and Bases surrounding.<br>
+<br>
+Position is the position, according to the Genbank sequence file, around which<br>
+you want sequence. Bases surrounding is the length of the sequence you're<br>
+interested in. If Position is positive, you get sequence on the '+'<br>
+strand as designated by Genbank. If Position is negative, you get the '-'<br>
+strand.<br>
+<br>
+Output consists of a descriptive header, followed by the sequence.<br>
+<br><br>
+
+<a name=orfregion><H2>ORF Region</H2></a>
+
+Pull out an orf's sequence and optionally sequences upstream and downstream.<br>
+<br>
+There are three inputs: Systematic gene name/number, #Bases Upstream, and<br>
+#Bases Downstream.<br>
+<br>
+Systematic gene name/number is the gene you're interested in.  These names are<br>
+the ones given by Genbank, and are different for each genome.  These are NOT the<br>
+trivial names.  For example, for <i>C. crescentus</i>, you could enter CC3035 or just 3035,<br>
+but NOT ctrA.  For <i>E. coli</i> K12, you could enter b0014 or just 14, but NOT dnaK.  If<br>
+you don't know what the systematic names are, you might try entering some number in<br>
+the <a href="#position">position</a> program above and running that program first.<br>
+If you put a negative sign (-) in front of the name/number then the program will<br>
+not output the orf sequence; this is useful if you want to just pull out upstream or<br>
+downstream sequences.<br>
+<br>
+#Bases Upstream is the number of nucleotides upstream of ORF you want. If<br>
+you don't want any you can use 0.<br>
+<br>
+#Bases Downstream is the number of nucleotides downstream of ORF that you<br>
+want. If you don't want any you can use 0.<br>
+<br>
+If you want neither upstream nor downstream sequence, you can leave both of<br>
+them out. If you want upstream and no downstream, you can leave out<br>
+DOWNSTREAM. But if you want downstream sequence and not upstream, you need to<br>
+make sure you put in a 0 for upstream otherwise it will just give you upstream<br>
+sequence.<br>
+<br>
+Output consists of a descriptive header followed by the sequence.<br>
+<br><br>
+
+<a name=translate><H2>Translate</H2></a>
+
+Translate a DNA sequence.<br>
+<br>
+Input is FASTA format, i.e. a header line starting with '&gt;'&quot;,<br>
+then the sequence following.  For example,<br>
+<br>
+&gt;My_DNA_sequence<br>
+GCTATCTCGCTACTGCTC<br>
+<br>
+You can select several options.  Note if you don't select any options then you<br>
+won't get any output(!).
+One letter - if checked, gives you a one-letter translation.<br>
+Three letter - if checked, gives you a three-letter translation.<br>
+Six-frame - if checked, gives you a translation in all six frames.<br>
+Print DNA sequence - if checked, prints the DNA sequence you entered before<br>
+printing its translation.<br>
+<br>
+Note:
+The stop codons are indicated by "X" in one-letter translations and "STOP"<br>
+in three-letter translations.<br>
+Unknown codons are indicated by "?" in one-letter translations and "???"<br>
+in three-letter translations.<br>
+<br><br>
+
+<a name=MW><H2>Molecular Weight</H2></a>
+
+Calculate the molecular weight of a given FASTA sequence.<br>
+<br>
+Input is FASTA format, i.e. a header line starting with '&gt;'&quot;,<br>
+then the sequence following. For example,<br>
+<br>
+&gt;My_protein_sequence<br>
+ACHKLEFMPYSM<br>
+<br>
+Output will be any header lines followed by the molecular weight of the<br>
+sequence following. Sequence must be on one line. Sequence must use one-<br>
+letter amino acid abbreviations. Invalid amino acid codes will be ignored.<br>
+<br><br>
+
+<a name=revcomp><H2>Revcomp</H2></a>
+
+Print the reverse complement of a given DNA sequence.<br>
+<br>
+Input is of the form<br>
+&gt;Header_line<br>
+DNA_sequence<br>
+<br>
+Header lines are printed as they are entered. For printing the reverse<br>
+complement, each line of DNA_sequence is considered a different sequence,<br>
+so to get the reverse complement of a long sequence be sure that no<br>
+intervening newline characters are present. Upper- and lower-case sequences<br>
+are ok, and case will be preserved in the output. G, A, T, C are ok, as well<br>
+as the extended single-letter abbreviations for multiple nucleotides (i.e.<br>
+n or N = GATC, y or Y = CT).<br>
+<br><br>
+
+<a name=files><H2>Genome Files</H2></a>
+
+<ul>
+  <li><b>Intergenics</b><br>
+Output all intergenic sequences for a given genome.<br>
+Each intergenic sequence will be preceded by a FASTA header indicating<br>
+length of the intergenic region, start and end coordinates, and systematic<br>
+gene names for genes it occurs between. + and - in front of gene names<br>
+indicate which strand the coding region of the gene is on.<br>
+  </li>
+  <li><b>GATC Content</b><br>
+Output total nucleotide content for the whole genome, intergenics only, and coding regions.
+  </li>
+  <li><b>Total Codon Usage</b><br>
+Output total codon usage summarized across all predicted ORFs in the genome.
+<br>
+  </li>
+</ul>
+<br><br>
+
+<a name=ps-circular><H2>Circular-Chromosome location</H2></a>
+
+Print a circular map of the chromosome with the given locations marked<br>
+<br>
+Input is a list of coordinates (positive or negative coordinates are<br>
+allowed to specify which strand) or systematic gene names.  Multiple<br>
+coordinates/genes are allowed, one per line.  Positive coordinates and<br>
+genes transcribed clockwise are marked on the outside of the circular<br>
+map in red.  Negative coordinates and genes transcribed counterclockwise<br>
+are marked in cyan on the inside of the map.<br>
+<br><br>
+
+<a name=ps-graphic><H2>Graphic-Gene organization</H2></a>
+
+Print a diagram of the organization of genes in the area specified<br>
+<br>
+Input is a coordinate or systematic gene name and a length.  The diagram<br>
+will be centered at the given coordinate or the middle of the given gene.<br>
+If a coordinate is given, it will be marked with a vertical black line.<br>
+If a gene is given, it will be displayed in black.  The total area<br>
+diagrammed will be specified by the length parameter.  Genes transcribed<br>
+from right to left will appear above the central horizontal black line in<br>
+a reddish color.  Genes transcribed from right to left will appear below<br>
+the central horizontal black line in a bluish color.  The systematic<br>
+gene names will be shown on the diagram, and below the diagram the gene<br>
+annotations, color coded appropriately, will be shown.<br>
+<br><br>
+
+<p>
+<a href="genome-tools/disclaimer.html">Disclaimer</a><br>
+Swaine Chen and William Lee<br>
+<a href="mailto:some@email.address">Feedback and comments</a>
+</p>
+
+</body>
+
+</html>
